@@ -77,22 +77,19 @@ social_links:
 #header_pages:
 # - about.md
 
-# Build settings
-theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 # Build settings
-theme:
-  - minima 
+theme: minima
+
 #  - jekyll-theme-hacker
 #  - minimal-mistakes-jekyll
 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 # Exclude from processing.
