@@ -35,15 +35,15 @@ github:
   baseurl: esohinformatics.com
 
 # Build settings
-#theme: minima
+theme:
+   - minima 
+#   - jekyll-theme-hacker
+#   - minimal-mistakes-jekyll
 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-- jekyll-remote-theme
-
-#theme: jekyll-theme-hacker
-#plugins:
-#  - jekyll-feed
+   - jekyll-remote-theme
+   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
