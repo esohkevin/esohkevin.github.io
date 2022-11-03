@@ -29,6 +29,7 @@ domain: esohinformatics.github.io
 url: https://esohinformatics.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EsohKevin
 github_username: esohkevin
+youtube_username: esohinformatics
 
 # Build settings
 theme: minima
