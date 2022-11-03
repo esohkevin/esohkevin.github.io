@@ -30,12 +30,20 @@ url: https://esohinformatics.github.io # the base hostname & protocol for your s
 twitter_username: EsohKevin
 github_username: esohkevin
 youtube_username: esohinformatics
+show_downloads: true
+github:
+  baseurl: esohinformatics.com
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-hacker
+
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+
+#theme: jekyll-theme-hacker
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
