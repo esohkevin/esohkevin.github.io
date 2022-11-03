@@ -19,16 +19,19 @@
 # in the templates via {{ site.myvariable }}.
 
 title: esohinformatics
-author: Kevin Esoh
-email: esohkev@gmail.com
+author: 
+  name: Kevin Esoh
+  email: esohkev@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+
 show_excerpts: false # set to true to show excerpts on the homepage
+show_downloads: true
+
 domain: esohinformatics.github.io
 url: https://esohinformatics.github.io # the base hostname & protocol for your site, e.g. http://example.com
-show_downloads: true
 github:
   baseurl: esohinformatics.com
 
@@ -36,10 +39,6 @@ github:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
 # Build settings
 theme: minima
@@ -67,7 +66,7 @@ social_links:
   # facebook: jekyll
   # flickr:   jekyll
   # instagram: jekyll
-  # linkedin: Kevin-Esoh
+  linkedin: Kevin-Esoh
   # pinterest: jekyll
   # youtube: jekyll
   # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
