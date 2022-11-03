@@ -33,6 +33,27 @@ show_downloads: true
 github:
   baseurl: esohinformatics.com
 
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+theme: minima
+#  - jekyll-theme-hacker
+#  - minimal-mistakes-jekyll
+
+#remote_theme: pages-themes/hacker@v0.2.0
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+#  - jekyll-remote-theme
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -72,26 +93,6 @@ social_links:
   # - username: jekyll2
   #   instance: example.com
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Build settings
-theme: minima
-
-#  - jekyll-theme-hacker
-#  - minimal-mistakes-jekyll
-
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-#  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
