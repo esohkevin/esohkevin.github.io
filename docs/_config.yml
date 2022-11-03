@@ -32,7 +32,8 @@ github_username: esohkevin
 youtube_username: esohinformatics
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
