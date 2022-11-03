@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to esohinformatics!"
 date:   2022-11-03 21:19:53 +0200
 categories: jekyll update
 ---
