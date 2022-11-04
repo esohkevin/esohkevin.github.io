@@ -27,11 +27,15 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 show_downloads: false
+is_project_page: true
 
 domain: esohinformatics.github.io
 url: https://esohinformatics.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github:
-  repository_url: View on GitHub
+  owner_url: https://esohinformatics.github.io
+  owner_name: kesoh
+  repository_url: https://esohinformatics.github.io
+  repository_name: esohinformatics
   baseurl: esohinformatics.com
 
 buttons:
