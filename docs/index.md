@@ -8,6 +8,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [HbF genomics](./hbfgwascodebook.html)
 
+# This is a DNA figure in grey scale
+
+![](uploads/dna_greyscale.png)
 
 There should be whitespace between paragraphs.
 
