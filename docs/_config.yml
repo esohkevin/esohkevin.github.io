@@ -36,7 +36,6 @@ github:
   owner_name: kesoh
   repository_url: https://esohinformatics.github.io
   repository_name: esohinformatics
-  is_project_page: false
   baseurl: esohinformatics.com
 
 buttons:
