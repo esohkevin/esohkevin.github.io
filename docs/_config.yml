@@ -35,6 +35,10 @@ url: https://esohinformatics.github.io # the base hostname & protocol for your s
 github:
   baseurl: esohinformatics.com
 
+buttons:
+  zip_title: Edit on GitHub
+  github_hide: false
+
 # point to my logo
 logourl: /assets/img/esoh.png
 logoalt: esohlogo
