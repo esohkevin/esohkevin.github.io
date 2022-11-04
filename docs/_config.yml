@@ -33,6 +33,7 @@ show_downloads: false
 domain: esohinformatics.github.io
 url: https://esohinformatics.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github:
+  url: View on GitHub
   baseurl: esohinformatics.com
 
 buttons:
