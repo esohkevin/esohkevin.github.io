@@ -35,6 +35,31 @@ url: https://esohinformatics.github.io # the base hostname & protocol for your s
 github:
   baseurl: esohinformatics.com
 
+# point to my logo
+logourl: /assets/img/esoh.png
+logoalt: esohlogo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  internal: true
+  url: ./
+- text: Add a new page
+  internal: true
+  url: add-a-new-page
+- text: Configure the Guide
+  internal: true
+  url: configure-the-guide
+- text: GitHub Setup
+  internal: true
+  url: github
+- text: Create a Glossary
+  glossary: true
+- text: Edit this Repo
+  internal: false
+  url: https://esohinformatics.github.io
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
