@@ -278,14 +278,17 @@ HbF normalization (Cubic root)
        head()
 
     ## # A tibble: 6 × 2
-    ##     HbF normalizedHbF
-    ##   <dbl>         <dbl>
-    ## 1   0.2         0.585
-    ## 2   0.3         0.669
-    ## 3   0.3         0.669
-    ## 4   0.3         0.669
-    ## 5   0.3         0.669
-    ## 6   0.4         0.737
+
+| HbF   | normalizedHbF |
+| :---: | :-----------: |
+| <dbl> |     <dbl>     |
+| :--:  | :-----------: |
+|  0.2  |     0.585     |
+|  0.3  |     0.669     |
+|  0.3  |     0.669     |
+|  0.3  |     0.669     |
+|  0.3  |     0.669     |
+|  0.4  |     0.737     |
 
 ### HbF distribution before and after normalization
 
