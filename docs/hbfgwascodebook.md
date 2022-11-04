@@ -1,8 +1,10 @@
 ---
 layout: default
+title: HbF Genomics
+description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis
 ---
 
-# library(tidyverse)
+    library(tidyverse)
 
 Clinical datasets
 =================
@@ -120,7 +122,7 @@ Summary of Cameroon data
        line = 1
     )
 
-<img src="/home/kesoh/esoh/data/sadaccgwas/writeup/hbfgenomics/codebook/hbfgwascodebook_files/figure-markdown_strict/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals"  />
+<img src="./figures/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals"  />
 <p class="caption">
 Figue 1. Proportion of females and males in the discovery dataset of
 Cameroonian inidividuals
@@ -217,7 +219,7 @@ Summary of Tanzania data
        line = 1
     )
 
-<img src="/home/kesoh/esoh/data/sadaccgwas/writeup/hbfgenomics/codebook/hbfgwascodebook_files/figure-markdown_strict/unnamed-chunk-9-1.png" alt="Figure 2. Proportion of females and males in the replication dataset of Tanzanian inidividuals"  />
+<img src="./figures/unnamed-chunk-9-1.png" alt="Figure 2. Proportion of females and males in the replication dataset of Tanzanian inidividuals"  />
 <p class="caption">
 Figure 2. Proportion of females and males in the replication dataset of
 Tanzanian inidividuals
@@ -303,8 +305,10 @@ HbF normalization (Cubic root)
     plot(tz.nhbf.den, ylab="", main="Tanzania normalized HbF")
     polygon(tz.nhbf.den, col=5)
 
-<img src="/home/kesoh/esoh/data/sadaccgwas/writeup/hbfgenomics/codebook/hbfgwascodebook_files/figure-markdown_strict/unnamed-chunk-12-1.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="/home/kesoh/esoh/data/sadaccgwas/writeup/hbfgenomics/codebook/hbfgwascodebook_files/figure-markdown_strict/unnamed-chunk-12-2.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="/home/kesoh/esoh/data/sadaccgwas/writeup/hbfgenomics/codebook/hbfgwascodebook_files/figure-markdown_strict/unnamed-chunk-12-3.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="/home/kesoh/esoh/data/sadaccgwas/writeup/hbfgenomics/codebook/hbfgwascodebook_files/figure-markdown_strict/unnamed-chunk-12-4.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" />
+<img src="./figures/unnamed-chunk-12-1.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-2.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-3.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-4.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" />
 <p class="caption">
 Figure 3. HbF distribution in Cameroonian and Tanzanian study
 participants before and after normalization
 </p>
+
+[back](./)
