@@ -32,10 +32,11 @@ domain: esohinformatics.github.io
 url: https://esohinformatics.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
-  owner_url: https://esohinformatics.github.io
+  owner_url: https://github.com/esohkevin
   owner_name: kesoh
-  repository_url: https://esohinformatics.github.io
+  repository_url: https://esohkevin.github.io
   repository_name: esohinformatics
+  is_project_page: true
   baseurl: esohinformatics.com
 
 buttons:
