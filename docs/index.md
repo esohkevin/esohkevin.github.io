@@ -1,5 +1,6 @@
 ---
 layout: default
+image: docs/assets/img/esohinformatics_logo.svg
 ---
 
 [Home](index.md) | [Contact](contact.md) | [About](about.md)
