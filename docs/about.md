@@ -6,7 +6,7 @@ layout: pages
 About me
 ========
 
-My name os Kevin Esoh. I am from Cameroon.
+My name is Kevin Esoh. I am from Cameroon.
 
 I did my undergrad studies in Cameroon at the University of Buea (UB)
 from 2012-2015. I majored in Biochemistry which I was passionate about,
@@ -19,9 +19,8 @@ in my project. I initiated a project on reverse vaccinology for
 onchocerciasis vaccine design which was basically to use bioinformatics
 tools to design vaccines for the river blindness disease that is caused
 by the parasite *Onchocerca volvulus*. In the last few months of my MSc
-in Cameroon, I \[screened\]
-(<a href="https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw" class="uri">https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw</a>)
-the entire proteome of *O. volvulus* (which consists of about 12,000
+in Cameroon, I \[screened\](<a href="https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw" class="uri">https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw</a>)
+the entire proteome of *O. volvulus* (which consists of over 12,000
 proteins) for antigenic or immunogenic proteins that could be used to
 design vaccine candidates. Of course I did not complete the project due
 to my scholarship award. However, my senior who was doing his PhD in
@@ -42,7 +41,7 @@ the conversation I had with my lecturer in 2014 around this coevolution
 while we were walking towards the Biochemistry department after one of
 his lectures. My scholarship was funded by
 [DELGEME](https://www.delgeme.org/), one of the funding organizations
-that had just been established un the [DELTAS
+that had just been established under the [DELTAS
 Africa](https://www.aasciences.africa/aesa/programmes/developing-excellence-leadership-training-and-science-africa-deltas-africa)
 program by the African Academy of Sciences. My project was based on
 screening the genomes of Cameroonian individuals with and without
