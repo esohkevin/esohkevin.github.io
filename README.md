@@ -1,5 +1,5 @@
 ---
-image: /assets/img/esoh.png
+image: docs/assets/img/esohinformatics_logo.svg
 ---
 
 # esohkevin.github.io
