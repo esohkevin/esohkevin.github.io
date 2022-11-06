@@ -5,7 +5,7 @@ layout: pages
 
 # About me
 
-[back](./)
+| [back](./) |
 
 My name is Kevin Esoh. I am from Cameroon.
 
