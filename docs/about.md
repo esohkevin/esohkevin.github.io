@@ -19,7 +19,7 @@ in my project. I initiated a project on reverse vaccinology for
 onchocerciasis vaccine design which was basically to use bioinformatics
 tools to design vaccines for the river blindness disease that is caused
 by the parasite *Onchocerca volvulus*. In the last few months of my MSc
-in Cameroon, I \[screened\](<a href="https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw" class="uri">https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw</a>)
+in Cameroon, I [screened](<a href="https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw" class="uri">https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw</a>)
 the entire proteome of *O. volvulus* (which consists of over 12,000
 proteins) for antigenic or immunogenic proteins that could be used to
 design vaccine candidates. Of course I did not complete the project due
