@@ -10,12 +10,19 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/post.html" class="ghbtn">Posts</a>
         <a href="/workflow.html" class="ghbtn">Workflows</a>
         <a href="/video.html" class="ghbtn">Videos</a>
-    </div> 
-
-    <div class="ghbtn-group minor-group" align="right">
         <a href="/contact.html" class="ghbtn">Contact</a>
-    </div>
+    </div> 
 </div>
+
+
+<div class=".pgnav-group-btn" align="right", style="width:100%">
+    <a href="/about.html" class="ghbtn", style="width:20%">About</a>
+    <a href="/project.html" class="ghbtn">Projects</a>
+    <a href="/post.html" class="ghbtn">Posts</a>
+    <a href="/workflow.html" class="ghbtn">Workflows</a>
+    <a href="/video.html" class="ghbtn">Videos</a>
+</div>
+
 
 [HbF genomics](./hbfgwascodebook.html)
 
