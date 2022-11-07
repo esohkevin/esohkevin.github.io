@@ -2,11 +2,21 @@
 layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
-<div style="text-align: right"><a href="/index.html" class="mybtn">Home</a></div>
-<div style="text-align: right"><a href="#." class="mybtn">Posts</a></div>
-<div style="text-align: right"><a href="/about.html" class="pgnav-btn">About</a></div>
-<div style="text-align: right"><a href="/contact.html" class="mybtn">Contact</a></div>
 
+<div class="actions ghbtn-container">
+    <a href="#" class="ghbtn primary">Compose new</a>
+    
+    <div class="ghbtn-group">
+        <a href="#" class="ghbtn primary">Archive</a>
+        <a href="#" class="ghbtn">Report spam</a>
+        <a href="#" class="ghbtn danger">Delete</a>
+    </div>
+                        
+    <div class="ghbtn-group minor-group">
+        <a href="#" class="ghbtn">Move to</a>
+        <a href="#" class="ghbtn">Labels</a>
+    </div>
+</div>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
