@@ -191,46 +191,50 @@ a {
   right: 0;
 }
 
-/* Grouping page navigation buttons */
-.pgnav-group-btn {
+/* Grouping my custom buttons */
+.mybtn-group {
   display: inline-block;
   margin-bottom: 1rem;
-  border-radius: 0.3rem;
   color: rgba(255, 255, 255, 0.8);
   background-color: rgba(20, 59, 43, 0.8);
   border-color: rgba(20, 59, 43, 0.2);
   border-style: solid;
   border-width: 1px;
-  text-align: center;
-  padding: 20px;
+  border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-  cursor: pointer;
-  margin: 5px;
   float: left;
-}
-.pgnav-group-btn span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
 
-.pgnav-group-btn span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
+  &:hover {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(57, 78, 76, 0.2);
+    border-color: rgba(57, 78, 76, 0.3);
+  }
 
-.pgnav-group-btn:hover span {
-  padding-right: 25px;
-}
+  + .mybtn-group {
+    margin-left: 1rem;
+  }
 
-.pgnav-group-btn:hover span:after {
-  opacity: 1;
-  right: 0;
+  @include large {
+    padding: 0.75rem 1rem;
+  }
+
+  @include medium {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+
+  @include small {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
+
+    + .mybtn-group {
+      margin-top: 1rem;
+      margin-left: 0;
+    }
+  }
 }
 
 

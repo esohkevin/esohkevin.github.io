@@ -15,12 +15,12 @@ image: assets/img/esohinformatics_logo.svg
 </div>
 
 
-<div class="pgnav-group-btn" align="right" style="width:100%">
-    <a href="/about.html" class="pgnav-btn" style="width:20%">About</a>
-    <a href="/project.html" class="pgnav-btn">Projects</a>
-    <a href="/post.html" class="pgnav-btn">Posts</a>
-    <a href="/workflow.html" class="pgnav-btn">Workflows</a>
-    <a href="/video.html" class="pgnav-btn">Videos</a>
+<div class="mybtn-group" align="right" style="width:100%">
+  <p align="left"><a href="/about.html" class="mybtn-group" style="width:20%">About</a></p>
+  <p align="left"><a href="/project.html" class="mybtn-group">Projects</a></p>
+  <p align="left"><a href="/post.html" class="mybtn-group">Posts</a></p>
+  <p align="left"><a href="/workflow.html" class="mybtn-group">Workflows</a></p>
+  <p align="left"><a href="/video.html" class="mybtn-group">Videos</a></p>
 </div>
 
 
