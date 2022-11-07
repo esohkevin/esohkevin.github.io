@@ -23,7 +23,6 @@ author:
   name: Kevin Esoh
   email: esohkev@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  "Somewhere, something incredible is waiting to be known"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 show_downloads: false
