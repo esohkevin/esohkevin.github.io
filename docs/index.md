@@ -3,24 +3,23 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
-<div class="actions ghbtn-container">
-    <div class="ghbtn-group" align="center">
+<div class="actions ghbtn-container" align="center">
+    <div class="ghbtn-group">
         <a href="/about.html" class="ghbtn">About</a>
         <a href="/project.html" class="ghbtn">Projects</a>
         <a href="/post.html" class="ghbtn">Posts</a>
         <a href="/workflow.html" class="ghbtn">Workflows</a>
         <a href="/video.html" class="ghbtn">Videos</a>
-        <a href="/contact.html" class="ghbtn" align="right">Contact</a>
+        <p align="right"><a href="/contact.html" class="ghbtn">Contact</a></p>
     </div> 
 </div>
 
-
-<div class="mybtn-group" align="right" style="width:100%">
-  <p align="left"><a href="/about.html" class="mybtn-group" style="width:20%">About</a></p>
-  <p align="left"><a href="/project.html" class="mybtn-group">Projects</a></p>
-  <p align="left"><a href="/post.html" class="mybtn-group">Posts</a></p>
-  <p align="left"><a href="/workflow.html" class="mybtn-group">Workflows</a></p>
-  <p align="left"><a href="/video.html" class="mybtn-group">Videos</a></p>
+<div class="actions ghbtn-container">
+  <p align="left"><a href="/about.html" class="mybtn">About</a></p>
+  <p align="left"><a href="/project.html" class="mybtn">Projects</a></p>
+  <p align="left"><a href="/post.html" class="mybtn">Posts</a></p>
+  <p align="left"><a href="/workflow.html" class="mybtn">Workflows</a></p>
+  <p align="left"><a href="/video.html" class="mybtn">Videos</a></p>
 </div>
 
 
