@@ -11,11 +11,11 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/video.html" class="ghbtn">Videos</a>
     </div> 
 
+    <p align="right">
     <div class="ghbtn-group minor-group">
-      <p align="right">
         <a href="/contact.html" class="ghbtn">Contact</a>
-      </p>
     </div>
+    </p>
 </div>
 
 [HbF genomics](./hbfgwascodebook.html)
