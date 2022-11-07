@@ -7,14 +7,14 @@ image: assets/img/esohinformatics_logo.svg
     <a href="#" class="ghbtn primary">Compose new</a>
     
     <div class="ghbtn-group">
-        <a href="#" class="ghbtn primary">Archive</a>
-        <a href="#" class="ghbtn">Report spam</a>
-        <a href="#" class="ghbtn danger">Delete</a>
+        <a href="/about.html" class="ghbtn">About</a>
+        <a href="#" class="ghbtn">Posts</a>
+        <a href="/contact.html" class="ghbtn">Contact</a>
     </div>
                         
     <div class="ghbtn-group minor-group">
-        <a href="#" class="ghbtn">Move to</a>
-        <a href="#" class="ghbtn">Labels</a>
+        <a href="#" class="ghbtn">Workflows</a>
+        <a href="#" class="ghbtn">Videos</a>
     </div>
 </div>
 
