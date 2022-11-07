@@ -3,9 +3,9 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
-| <div style="text-align: right"><a href="/about.html" class="button pill">About</a></div> |
+<div style="text-align: right"><a href="/about.html" class="mybtn">About</a></div>
 
-<a href="/about.html" class="button primary">About</a>
+<a href="/about.html" class="mybtn">About</a>
 
 [Home](index.md) | [Contact](contact.md) | [About](about.md)
 
