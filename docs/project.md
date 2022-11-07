@@ -20,7 +20,7 @@ Under development
  </div>
 
  <div class="ghbtn-group" align="right">
-  <a href="/about.html" class="mybtn">Back to top</a>
+  <a href="/project.html" class="mybtn">Back to top</a>
  </div>
 </div>
 
