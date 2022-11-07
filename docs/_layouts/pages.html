@@ -11,6 +11,22 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+
+    <div class="actions ghbtn-container">
+        <a href="#" class="ghbtn primary">Compose new</a>
+    
+        <div class="ghbtn-group">
+            <a href="#" class="ghbtn primary">Archive</a>
+            <a href="#" class="ghbtn">Report spam</a>
+            <a href="#" class="ghbtn danger">Delete</a>
+        </div>
+    
+        <div class="ghbtn-group minor-group">
+            <a href="#" class="ghbtn">Move to</a>
+            <a href="#" class="ghbtn">Labels</a>
+        </div>
+    </div>
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
