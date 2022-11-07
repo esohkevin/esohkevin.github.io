@@ -5,6 +5,4 @@ layout: pages
 
 Under development
 
-<iframe width="420" height="315"
-  src="https://www.youtube.com/watch?v=tQ92CLS6L84">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQ92CLS6L84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

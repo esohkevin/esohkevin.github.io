@@ -11,9 +11,7 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/video.html" class="ghbtn">Videos</a>
     </div>
     
-    <div class="ghbtn-group"> 
-        <a><a/>
-    </div>
+
 
     <div class="ghbtn-group minor-group">
         <a href="/contact.html" class="ghbtn">Contact</a>
