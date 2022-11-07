@@ -3,7 +3,12 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
-<div style="text-align: right"> <a href="/about.html" class="btn--primary">About</a> </div>
+<div style="text-align: right"> <a href="/about.html" class="btn--success">About</a> </div>
+
+> :Buttons
+> > :Button label=Github, url=https://github.com
+>
+> > :Button label=Google, url=https://google.com
 
 [About](/about.html){: .btn .btn--primary}
 
