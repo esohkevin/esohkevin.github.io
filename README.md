@@ -4,4 +4,4 @@
   </a>
 </p>
 
-![](docs/assets/img/esohinformatics_logo.svg)
+![](./docs/assets/img/esohinformatics_logo.svg)
