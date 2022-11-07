@@ -1,5 +1,5 @@
 ---
-title: Workflow
+title: Workflows
 layout: pages
 ---
 
