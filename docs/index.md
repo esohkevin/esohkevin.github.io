@@ -3,8 +3,8 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
-<div class="actions ghbtn-container" align="right">
-    <div class="ghbtn-group">
+<div class="actions ghbtn-container">
+    <div class="ghbtn-group" align="left">
         <a href="/about.html" class="ghbtn">About</a>
         <a href="/project.html" class="ghbtn">Projects</a>
         <a href="/post.html" class="ghbtn">Posts</a>
@@ -12,11 +12,9 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/video.html" class="ghbtn">Videos</a>
     </div> 
 
-    <p align="right">
-    <div class="ghbtn-group minor-group">
+    <div class="ghbtn-group minor-group" align="right">
         <a href="/contact.html" class="ghbtn">Contact</a>
     </div>
-    </p>
 </div>
 
 [HbF genomics](./hbfgwascodebook.html)
