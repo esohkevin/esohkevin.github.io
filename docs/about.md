@@ -70,6 +70,5 @@ What is the goal?
 =================
 
 <div>
-  <p align="left"><a href="/index.html" class="mybtn">Home</a></p>
-  <p align="right"><a href="/about.html" class="mybtn">Back to top</a></p>
+  <p align="left"><a href="/index.html" class="mybtn">Home</a></p>  <p align="right"><a href="/about.html" class="mybtn">Back to top</a></p>
 </div>
