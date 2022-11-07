@@ -22,8 +22,8 @@ title: esohinformatics
 author: 
   name: Kevin Esoh
   email: esohkev@gmail.com
-#description: > # this means to ignore newlines until "show_excerpts:"
-
+description: > # this means to ignore newlines until "show_excerpts:"
+  
 show_excerpts: false # set to true to show excerpts on the homepage
 show_downloads: false
 google_analytics: true
