@@ -5,6 +5,8 @@ image: assets/img/esohinformatics_logo.svg
 
 <div style="text-align: right"><a href="/about.html" class="btn btn-green">About</a></div>
 
+<button class="materia ghost">About</button>
+
 [About](/about.html){: .btn .btn--primary}
 
 [Home](index.md) | [Contact](contact.md) | [About](about.md)

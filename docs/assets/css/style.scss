@@ -2,3 +2,239 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+
+$white: #ffffff;
+$grey:  #666666;
+$black: #333333;
+
+$inktrans: 0.2;
+
+$blue: #2196f3;
+$darkblue: #1976d2;
+$inkblue: transparentize(#0d47a1, $inktrans);
+
+$yellow: #ffeb3b;
+$darkyellow: #fbc02d;
+$inkyellow: transparentize(#f57f17, $inktrans);
+
+$teal: #009688;
+$darkteal: #00796b;
+$inkteal: transparentize(#004d40, $inktrans);
+
+$red: #f44336;
+$darkred: #d32f2f;
+$inkred: transparentize(#b71c1c, $inktrans);
+
+$ghost:    transparent;
+$disabled: #999999;
+
+$trans: 0.3s ease;
+
+$z10:  0px 3px 3px 0px rgba(50, 50, 50, 0.1);
+$z50:  0px 4px 3px 0px rgba(50, 50, 50, 0.2);
+$z100: 0px 5px 3px 0px rgba(50, 50, 50, 0.3);
+
+.material {
+  height: 50px;
+  padding: 0 50px;
+  font-size: 18px;
+  text-decoration: none;
+  color: $white;
+  border-radius: 1px;
+  background-color: $blue;
+  border: none;
+  -webkit-box-shadow: $z10;
+  -moz-box-shadow:    $z10;
+  box-shadow:         $z10;
+  margin: 25px 0;
+  display: inline-block;
+  line-height: 50px;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+  font-family: 'Roboto', 'Helvetica', 'Arial', 'Sans Serif';
+  box-sizing: border-box;
+
+  &.full {
+    width: 100%;
+  }
+
+  &.sm {
+    width: 150px;
+  }
+
+  &.md {
+    width: 200px;
+  }
+
+  &.lg {
+    width: 300px;
+  }
+
+  .ink {
+    position: absolute;
+    border-radius: 50%;
+    height: 1px;
+    width: 1px;
+    border: 1px solid $inkblue;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+    opacity: 0.8;
+    box-sizing: border-box;
+
+    -webkit-transition: $trans;
+    transition: $trans;
+  }
+
+  &:active, &:focus {
+    background-color: $darkblue;
+    -webkit-box-shadow: $z50;
+    -moz-box-shadow:    $z50;
+    box-shadow:         $z50;
+    outline: 0;
+
+    -webkit-transition: $trans;
+    transition: $trans;
+  }
+
+  &:hover {
+    background-color: darken($darkblue, 5%);
+    -webkit-box-shadow: $z100;
+    -moz-box-shadow:    $z100;
+    box-shadow:         $z100;
+    cursor: pointer;
+
+    -webkit-transition: $trans;
+    transition: $trans;
+  }
+
+
+  &.yellow {
+    background-color: $yellow;
+    color: $black;
+
+    &.ghost {
+      color: $yellow;
+    }
+
+    .ink {
+      border-color: $inkyellow;
+    }
+
+    &:active, &:focus {
+      background-color: $darkyellow;
+    }
+
+    &:hover {
+      background-color: darken($darkyellow, 5%);
+    }
+
+  }
+
+  &.teal {
+    background-color: $teal;
+    color: white;
+
+    &.ghost {
+      color: $teal;
+    }
+
+    .ink {
+      border-color: $inkteal;
+    }
+
+    &:active, &:focus {
+      background-color: $darkteal;
+    }
+
+    &:hover {
+      background-color: darken($darkteal, 5%);
+    }
+  }
+
+  &.red {
+    background-color: $red;
+    color: $white;
+
+    &.ghost {
+      color: $red;
+    }
+
+    .ink {
+      border-color: $inkred;
+    }
+
+    &:active, &:focus {
+      background-color: $darkred;
+    }
+
+    &:hover {
+      background-color: darken($darkred, 5%);
+    }
+  }
+
+  &.ghost {
+    color: $blue;
+    background-color: $ghost;
+
+    &:hover, &:active, &:focus {
+      background-color: $ghost;
+    }
+  }
+
+  &.disabled {
+    background-color: $disabled;
+    color: $grey;
+
+    -webkit-box-shadow: 0 0 0 0 transparent;
+    -moz-box-shadow:    0 0 0 0 transparent;
+    box-shadow:         0 0 0 0 transparent;
+
+    .ink {
+      display: none;
+    }
+
+    &:hover, &:active, &:focus {
+      cursor: initial;
+      background-color: $disabled;
+
+      -webkit-box-shadow: 0 0 0 0 transparent;
+      -moz-box-shadow:    0 0 0 0 transparent;
+      box-shadow:         0 0 0 0 transparent;
+    }
+  }
+
+  -webkit-transition: $trans;
+  transition: $trans;
+}
+
+@media (max-width: 720px) {
+  .material {
+    &.sm, &.md, &.lg {
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+/**
+  * Start display styles
+  */
+
+body {
+  color: $black;
+  text-align: center;
+  background-color:#FAFAFA;
+}
+
+.title {
+  color: $blue;
+}
+
+.desc {
+  width: 60%;
+  margin: 0 auto;
+}
