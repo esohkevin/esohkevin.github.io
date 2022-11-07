@@ -3,6 +3,7 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
+```
 <div class="actions ghbtn-container" align="center">
     <div class="ghbtn-group">
         <a href="/about.html" class="ghbtn">About</a>
@@ -13,6 +14,7 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/contact.html" class="ghbtn">Contact</a>
     </div> 
 </div>
+```
 
 <div class="actions ghbtn-container" align="center">
  <div class="ghbtn-group">
@@ -25,8 +27,6 @@ image: assets/img/esohinformatics_logo.svg
  </div>
 </div>
 
-
-[HbF genomics](./hbfgwascodebook.html)
 
 # This is a DNA figure in grey scale
 
