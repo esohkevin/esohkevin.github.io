@@ -1,8 +1,15 @@
 ---
-layout: default
 title: HbF Genomics
+layout: pages
 description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis
 ---
+
+# Project title
+ 
+Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis
+
+## The codes below demonstrate how we processed clinical data employed in our analysis
+
 
     library(tidyverse)
 
