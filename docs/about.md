@@ -3,7 +3,8 @@ title: About
 layout: pages
 ---
 
-# About me <p align="right"><a href="/index.html" class="mybtn">Home</a></p>
+# Who am I? 
+<p align="right"><a href="/index.html" class="mybtn">Home</a></p>
 
 | [back](./) |
 
