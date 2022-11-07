@@ -3,9 +3,10 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
-<div class="actions ghbtn-container">
+<div class="actions ghbtn-container" align="right">
     <div class="ghbtn-group">
         <a href="/about.html" class="ghbtn">About</a>
+        <a href="/project.html" class="ghbtn">Projects</a>
         <a href="/post.html" class="ghbtn">Posts</a>
         <a href="/workflow.html" class="ghbtn">Workflows</a>
         <a href="/video.html" class="ghbtn">Videos</a>
