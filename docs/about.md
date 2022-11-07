@@ -69,7 +69,9 @@ What is the goal?
 =================
 
 
-<div>
-  <p align="left"><a href="/index.html" class="mybtn-group">Home</a></p>
-  <p align="right"><a href="/about.html" class="mybtn-group">Back to top</a></p>
+<div class="actions ghbtn-container" align="center">
+ <div class="ghbtn-group">
+  <p align="left"><a href="/index.html" class="mybtn">Home</a></p>
+  <p align="right"><a href="/about.html" class="mybtn">Back to top</a></p>
+ </div>
 </div>

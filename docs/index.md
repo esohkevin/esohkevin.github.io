@@ -10,17 +10,17 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/post.html" class="ghbtn">Posts</a>
         <a href="/workflow.html" class="ghbtn">Workflows</a>
         <a href="/video.html" class="ghbtn">Videos</a>
-        <p align="right"><a href="/contact.html" class="ghbtn">Contact</a></p>
+        <a href="/contact.html" class="ghbtn">Contact</a>
     </div> 
 </div>
 
 <div class="actions ghbtn-container">
  <div class="ghbtn-group">
-  <p align="left"><a href="/about.html" class="mybtn">About</a></p>
-  <p align="left"><a href="/project.html" class="mybtn">Projects</a></p>
-  <p align="left"><a href="/post.html" class="mybtn">Posts</a></p>
-  <p align="left"><a href="/workflow.html" class="mybtn">Workflows</a></p>
-  <p align="left"><a href="/video.html" class="mybtn">Videos</a></p>
+  <a href="/about.html" class="mybtn">About</a>
+  <a href="/project.html" class="mybtn">Projects</a>
+  <a href="/post.html" class="mybtn">Posts</a>
+  <a href="/workflow.html" class="mybtn">Workflows</a>
+  <a href="/video.html" class="mybtn">Videos</a>
  </div>
 </div>
 
