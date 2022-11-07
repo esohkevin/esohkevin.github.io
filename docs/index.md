@@ -5,6 +5,10 @@ image: assets/img/esohinformatics_logo.svg
 
 <div style="text-align: right"> <a href="/about.html" class="btn">About</a> </div>
 
+<button name="button" onclick="/about.html"> About </button>
+
+[About](about.md){: .btn}
+
 [Home](index.md) | [Contact](contact.md) | [About](about.md)
 
 
