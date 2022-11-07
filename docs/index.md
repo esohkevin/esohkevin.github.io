@@ -4,7 +4,7 @@ image: assets/img/esohinformatics_logo.svg
 ---
 <div style="text-align: right"><a href="/index.html" class="mybtn">Home</a></div>
 <div style="text-align: right"><a href="#." class="mybtn">Posts</a></div>
-<div style="text-align: right"><a href="/about.html" class="mybtn">About</a></div>
+<div style="text-align: right"><a href="/about.html" class="pgnav-btn">About</a></div>
 <div style="text-align: right"><a href="/contact.html" class="mybtn">Contact</a></div>
 
 
