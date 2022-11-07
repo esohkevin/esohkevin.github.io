@@ -4,9 +4,8 @@ layout: pages
 ---
 
 # Who am I? 
-<p align="right"><a href="/index.html" class="mybtn">Home</a></p>
 
-My name is Kevin Esoh. I am from Cameroon.
+Kevin Esoh from Cameroon.
 
 I did my undergrad studies in Cameroon at the University of Buea (UB)
 from 2012-2015. I majored in Biochemistry which I was passionate about,
