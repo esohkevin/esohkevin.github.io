@@ -9,9 +9,16 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/post.html" class="ghbtn">Posts</a>
         <a href="/workflow.html" class="ghbtn">Workflows</a>
         <a href="/video.html" class="ghbtn">Videos</a>
-        <a href="/contact.html" class="ghbtn">Contact</a>
     </div>
-                        
+    
+    <div>
+
+    </div>
+
+    <div> 
+
+    </div>
+
     <div class="ghbtn-group minor-group">
         <a href="/contact.html" class="ghbtn">Contact</a>
     </div>
