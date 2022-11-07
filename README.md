@@ -4,4 +4,4 @@
   </a>
 </p>
 
-![https://esohkevin.github.io/](docs/assets/img/esohinformatics_logo.svg)
+![https://esohkevin.github.io/]("docs/assets/img/esohinformatics_logo.svg")
