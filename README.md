@@ -1,2 +1,2 @@
-![esohinformatics](docs/assets/img/esohinformatics_logo.svg){: .button}
+![esohinformatics](docs/assets/img/esohinformatics_logo.svg){: .center}
 
