@@ -15,11 +15,13 @@ image: assets/img/esohinformatics_logo.svg
 </div>
 
 <div class="actions ghbtn-container">
+ <div class="ghbtn-group">
   <p align="left"><a href="/about.html" class="mybtn">About</a></p>
   <p align="left"><a href="/project.html" class="mybtn">Projects</a></p>
   <p align="left"><a href="/post.html" class="mybtn">Posts</a></p>
   <p align="left"><a href="/workflow.html" class="mybtn">Workflows</a></p>
   <p align="left"><a href="/video.html" class="mybtn">Videos</a></p>
+ </div>
 </div>
 
 
