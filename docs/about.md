@@ -6,7 +6,7 @@ layout: pages
 # Who am I? 
 <p align="right"><a href="/index.html" class="mybtn">Home</a></p>
 
-| [back](./) |
+<p align="right"><a href="/index.html" class="ghbtn">Home</a></p>
 
 My name is Kevin Esoh. I am from Cameroon.
 
