@@ -44,6 +44,7 @@ buttons:
   github_hide: false
 
 pages:
+  baseurl: https://esohkevin.github.io
   home: /index.html
   about: /about.html
   contact: /contact.html
