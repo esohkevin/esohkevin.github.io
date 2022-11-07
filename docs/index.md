@@ -3,11 +3,9 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
-<div style="text-align: right"> <a href="/about.html" class="btn">About</a> </div>
+<div style="text-align: right"> <a href="/about.html" class="btn--primary">About</a> </div>
 
-<button name="button"> <a href="/about.html" class="btn">About</a> </button>
-
-[About](/about.html){: .btn}
+[About](/about.html){: .btn .btn--primary}
 
 [Home](index.md) | [Contact](contact.md) | [About](about.md)
 
