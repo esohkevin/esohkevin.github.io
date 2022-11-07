@@ -42,9 +42,13 @@ github:
 buttons:
   zip_title: View on GitHub
   github_hide: false
-  zip_title: Home
-  zip_title: Contact
-  zip_title: About
+
+pages:
+  home: /index.html
+  about: /about.html
+  contact: /contact.html
+  posts: ""
+
 
 # point to my logo
 logourl: /assets/img/esoh.png

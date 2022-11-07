@@ -19,7 +19,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+        <a href="{{ site.pages.home }}" class="btn">Home</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
@@ -38,7 +38,7 @@
         	<div class="row">
         		<div class="col-md-12 text-center">
 			   <p align="center">
-        			<a href="index.html"><img src="assets/img/esohinformatics_gitlogo.png" class="footerlogo wow zoomIn" alt="esohinformaticslogo"></a>
+        			<a href="index.html"><img src="assets/img/esohinformatics_logo.svg" class="footerlogo wow zoomIn" alt="esohinformaticslogo"></a>
 			   </p>
         		</div>
         	</div>
