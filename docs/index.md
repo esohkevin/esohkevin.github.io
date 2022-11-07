@@ -5,10 +5,6 @@ image: assets/img/esohinformatics_logo.svg
 
 <div style="text-align: right"><a href="/about.html" class="mybtn">About</a></div>
 
-<a href="/about.html" class="mybtn">About</a>
-
-[Home](index.md) | [Contact](contact.md) | [About](about.md)
-
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
