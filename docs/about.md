@@ -68,6 +68,17 @@ What is esohinformatics?
 What is the goal?
 =================
 
+div somebtn{
+    display:inline-block;
+}
+
+<div style="width:500px;">
+    <somebtn type="submit" class="msgBtn" onClick="return false;" >Save</button>
+    <somebtn type="submit" class="msgBtn2" onClick="return false;">Publish</button>
+    <somebtn class="msgBtnBack">Back</button>
+</div>
+
 <div>
-  <p align="left"><a href="/index.html" class="mybtn">Home</a></p>  <p align="right"><a href="/about.html" class="mybtn">Back to top</a></p>
+  <p align="left"><a href="/index.html" class="mybtn">Home</a></p>
+  <p align="right"><a href="/about.html" class="mybtn">Back to top</a></p>
 </div>
