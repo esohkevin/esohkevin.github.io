@@ -3,6 +3,8 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
+<div style="text-align: right"> [About](about.md) </div>
+
 [Home](index.md) | [Contact](contact.md) | [About](about.md)
 
 
