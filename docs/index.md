@@ -11,10 +11,6 @@ image: assets/img/esohinformatics_logo.svg
         <a href="/video.html" class="ghbtn">Videos</a>
     </div>
     
-    <div>
-
-    </div>
-
     <div> 
 
     </div>
