@@ -49,6 +49,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```r
+# Rscript
+require(gtools)
+nums = seq( from = 1, to = 10, by = 1 )
+for( num in nums ) { 
+  if( odd( num ) ) {
+    message( "Odd number: ", num )
+  } else {
+    message( "Even number: ", num )
+  }
+}
+```
+
 #### Header 4
 
 *   This is an unordered list following a header.
