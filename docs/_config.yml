@@ -22,7 +22,7 @@ title: esohinformatics
 author: 
   name: Kevin Esoh
   email: esohkev@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
+#description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 show_downloads: false
@@ -42,6 +42,9 @@ github:
 buttons:
   zip_title: View on GitHub
   github_hide: false
+  zip_title: Home
+  zip_title: Contact
+  zip_title: About
 
 # point to my logo
 logourl: /assets/img/esoh.png

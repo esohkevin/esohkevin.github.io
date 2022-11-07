@@ -3,7 +3,7 @@ layout: default
 image: assets/img/esohinformatics_logo.svg
 ---
 
-<div style="text-align: right"> <a ref="/index.html"> About </a> </div>
+<div style="text-align: right"> <a href="/about.html" class="btn">About</a> </div>
 
 [Home](index.md) | [Contact](contact.md) | [About](about.md)
 
