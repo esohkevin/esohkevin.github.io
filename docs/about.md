@@ -6,8 +6,6 @@ layout: pages
 # Who am I? 
 <p align="right"><a href="/index.html" class="mybtn">Home</a></p>
 
-<p align="right"><a href="/index.html" class="ghbtn">Home</a></p>
-
 My name is Kevin Esoh. I am from Cameroon.
 
 I did my undergrad studies in Cameroon at the University of Buea (UB)
@@ -70,3 +68,8 @@ What is esohinformatics?
 
 What is the goal?
 =================
+
+<div>
+  <p align="left"><a href="/index.html" class="mybtn">Home</a></p>
+  <p align="right"><a href="/about.html" class="mybtn">Back to top</a></p>
+</div>
