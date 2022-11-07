@@ -57,8 +57,9 @@ that changed everything for me. Not that I learned bioinformatics there,
 but the GWAS concepts I learned and the confidence I came out with,
 having learned from the very bests in the field, was what changed
 everything for me. I practiced with the course material day and night, I
-studied population genetics method papers like Nick Patterson’s paper on
-EIGENSOFT (I cannot remember the number of times I read that paper in
+studied population genetics method papers like Nick Patterson’s [paper on
+EIGENSOFT](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0020190) 
+(I cannot remember the number of times I read that paper in
 2019 alone), and I made sure to solve every problem I encountered until
 there was nothing I couldn’t do espcially regarding manupulating
 genetic/genomic data file formats.
