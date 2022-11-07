@@ -1,1 +1,1 @@
-![](docs/assets/img/esohinformatics_logo.svg)
+![](docs/assets/img/docs/assets/img/favicon_black.svg)
