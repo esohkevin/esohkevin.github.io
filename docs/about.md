@@ -69,11 +69,8 @@ What is the goal?
 =================
 
 <p align="right">
-  <a href="#.">Back to top</a>
+  [Back to top](#who-am-i)
 </p>
-
-
-| [Back to top](#who-am-i) |
 
 ***Under development***
 
