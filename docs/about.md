@@ -3,9 +3,34 @@ title: About
 layout: pages
 ---
 
-<p>
-  <li><a href="#who-am-i">Who am I?</a>
-</p>
+#toc_container {
+background: #f9f9f9 none repeat scroll 0 0;
+border: 1px solid #aaa;
+display: table;
+font-size: 85%;
+margin-bottom: 1em;
+padding: 20px;
+width: auto;
+}
+.toc_title {
+font-weight: 700;
+text-align: center;
+}
+#toc_container li, #toc_container ul, #toc_container ul li{
+list-style: outside none none !important;
+}
+
+<div id="toc_container">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+<li><a href="#who-am-i">Who am I?</a>
+<li><a href="#question_2">Heading 2</a>
+<li><a href="#question_3">Heading 3</a>
+<li><a href="#question_4">Heading 4</a>
+<li><a href="#question_5">Heading 5</a>
+</ul>
+</div>
+
 
 # Who am I? 
 
