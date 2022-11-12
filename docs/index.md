@@ -1,6 +1,6 @@
 ---
 layout: default
-image: assets/img/esohinformatics_logo.svg
+image: assets/img/esohinformatics-logo.svg
 ---
 
 <div class="actions ghbtn-container" align="center">
