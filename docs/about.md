@@ -73,7 +73,7 @@ What is the goal?
 </p>
 
 
-[Back to top](#who-am-i)
+| [Back to top](#who-am-i) |
 
 ***Under development***
 
