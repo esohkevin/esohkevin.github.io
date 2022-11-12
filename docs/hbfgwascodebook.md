@@ -15,8 +15,8 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
 1. [Load required r package](#loadpackage)
 2. [Clinical datasets](#clinicaldata)
 3. [Summary of Cameroon data](#summarycameroon)
-  1. [Variables](#variablescameroon)
-  2. [Summary statistics](#sumstatcameroon)
+	1. [Variables](#variablescameroon)
+	2. [Summary statistics](#sumstatcameroon)
 
 
 # Load require r package <a name="loadpackage"></a>
