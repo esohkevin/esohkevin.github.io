@@ -68,6 +68,7 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     )
     cm %>% select(variables) %>% summary()
 
+<p align="center">
     ##       AGE             HbS             HbF         HbA2_percentage 
     ##  Min.   : 5.00   Min.   :19.60   Min.   : 0.700   Min.   : 0.000  
     ##  1st Qu.:10.00   1st Qu.:80.30   1st Qu.: 4.700   1st Qu.: 2.700  
@@ -100,6 +101,7 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     ##  3rd Qu.: 94.0   3rd Qu.: 6.210  
     ##  Max.   :132.0   Max.   :22.600  
     ##  NA's   :14      NA's   :13
+</p>
 
 **Categorigal variables**
 
