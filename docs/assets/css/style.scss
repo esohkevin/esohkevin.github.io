@@ -3,6 +3,19 @@
 
 @import 'jekyll-theme-cayman';
 
+/* ---------------
+ * Table styles
+ * -------------- */
+
+table, th, td {
+  width: 100%;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
 /* ------------------------------------------
  * CSS3 GITHUB BUTTONS (Nicolas Gallagher)
  * Licensed under Unlicense
