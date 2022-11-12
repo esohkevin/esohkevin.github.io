@@ -3,6 +3,11 @@ title: Tutorials
 layout: pages
 ---
 
+List of tutorials. Click a link to go to the page
+
+1. [Convert Illumina IDAT to VCF/PLINK BINARY using command line]("{{ '/concert_idat_to_vcf.html' | relative_url }}")
+
+
 Under development
 
 <div class="actions ghbtn-container" align="center">
