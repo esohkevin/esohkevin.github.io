@@ -6,7 +6,7 @@ parmalink: /projects/
 
 # List of projects
 
-1. [HbF genomics](./hbfgwascodebook.html)
+1. [HbF genomics](/projects/hbfgwascodebook.html)
 
 
 ***Under development***
