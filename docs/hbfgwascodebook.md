@@ -308,42 +308,8 @@ Tanzanian inidividuals
 
     ## # A tibble: 6 × 2
 
-<table>
-  <tr>
-    <th>HbF</th>
-    <th>normalizedHbF</th>
-  </tr>
-  <tr>
-    <td>0.2</td>
-    <td>0.585</td>
-  </tr>
-  <tr>
-    <td>0.3</td>
-    <td>0.669</td>
-  </tr>
-  <tr>
-    <td>0.3</td>
-    <td>0.669</td>
-  </tr>
-  <tr>
-    <td>0.3</td>
-    <td>0.669</td>
-  </tr>
-  <tr>
-    <td>0.3</td>
-    <td>0.669</td>
-  </tr>
-  <tr>
-    <td>0.4</td>
-    <td>0.737</td>
-  </tr>
-</table>
-
-
 | HbF   | normalizedHbF |
 | :---: | :-----------: |
-| <dbl> |     <dbl>     |
-| :--:  | :-----------: |
 |  0.2  |     0.585     |
 |  0.3  |     0.669     |
 |  0.3  |     0.669     |
