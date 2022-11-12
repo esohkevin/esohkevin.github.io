@@ -171,16 +171,15 @@ Cameroonian inidividuals
 *CAM = CAM/CAM, BEN = BEN/BEN, SEN = SEN/SEN, CAR = CAR/CAR, Atypical =
 Atypical/Atypical*
 
-Summary of Tanzania data
-------------------------
+# Summary of Tanzania data <a name="summarytanzania"><a/>
 
-### Variables
+## Variables <a name="variablestanzania"></a>
 
     tz %>% names()
 
     ## [1] "FID" "IID" "AGE" "HbF" "SEX"
 
-### Summary statistics
+## Summary statistics <a name="sumstatstanzania"></a>
 
 **Quantitative/Continuous variables**
 
