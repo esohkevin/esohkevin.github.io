@@ -8,17 +8,17 @@
  * -------------- */
 
 table {
-  width: 50%;
+  width: 100%;
   align: center;
   text-align: center;
 }
 
 th, td {
-  /*width: 50%;*/
   text-align: center;
 }
 
 tr:nth-child(even) {
+  width: 50%;
   background-color: #D6EEEE;
 }
 
