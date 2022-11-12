@@ -68,7 +68,6 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     )
     cm %>% select(variables) %>% summary()
 
-<p align="center">
     ##       AGE             HbS             HbF         HbA2_percentage 
     ##  Min.   : 5.00   Min.   :19.60   Min.   : 0.700   Min.   : 0.000  
     ##  1st Qu.:10.00   1st Qu.:80.30   1st Qu.: 4.700   1st Qu.: 2.700  
@@ -101,7 +100,6 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     ##  3rd Qu.: 94.0   3rd Qu.: 6.210  
     ##  Max.   :132.0   Max.   :22.600  
     ##  NA's   :14      NA's   :13
-</p>
 
 **Categorigal variables**
 
@@ -141,19 +139,20 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
        line = 1
     )
 
-<img src="./figures/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals"  />
-<p class="caption">
+<img src="./figures/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals" align="center" />
+<p class="caption" align="center">
 Figue 1. Proportion of females and males in the discovery dataset of
 Cameroonian inidividuals
 </p>
 
-    cm %>% select(Stroke) %>% table()               # Number of patients with at least one overt stroke
+    # Number of patients with at least one overt stroke
+    cm %>% select(Stroke) %>% table()
 
     ## .
     ##   No  Yes 
     ## 1195   46
 
-    cm %>% select(athal) %>% table()        # 3.7 kb HbA1/HbA2 alpha thalassaemia deletion
+    cm %>% select(athal) %>% table()    # 3.7 kb HbA1/HbA2 alpha thalassaemia deletion
 
     ## .
     ## α3.7/α3.7   αα/α3.7     αα/αα 
