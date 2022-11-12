@@ -12,24 +12,27 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
 
 **Content**
 
-[Load required r package](#load-required-r-package)
-[Clinical datasets](#clinical-datasets)
-  [Summary of Cameroon data](##summary-of-cameroon-data)
+1. [Load required r package](#loadpackage)
+2. [Clinical datasets](#clinicaldata)
+3. [Summary of Cameroon data](#summarycameroon)
+  1. [Variables](#variablescameroon)
+  2. [Summary statistics](#sumstatcameroon)
 
-# Load require r package
+
+# Load require r package <a name="loadpackage"></a>
 
 
     library(tidyverse)
 
-# Clinical datasets
+# Clinical datasets <a name="clinicaldata"></a>
 
 
     cm <- read_table("../clinicaldata/cm_clinical_data.tsv")
     tz <- read_table("../clinicaldata/tz_clinical_data.tsv")
 
-## Summary of Cameroon data
+# Summary of Cameroon data <a name="summarycameroon"></a>
 
-### variables
+## Variables <a name="variablescameroon"></a>
 
     cm %>% names()
 
@@ -43,7 +46,7 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     ## [22] "WBC"                 "Lymp"                "Mono"               
     ## [25] "Platelets"           "Curated_penotype"    "Sample_name_comment"
 
-### Summary statistics
+## Summary statistics <a name="sumstatcameroon"></a>
 
 **Quantitative/Continuous variables**
 
