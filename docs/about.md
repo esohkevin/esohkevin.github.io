@@ -3,14 +3,6 @@ title: About
 layout: pages
 ---
 
-<div id="toc_container">
- <p class="toc_title">Contents</p>
- <ul class="toc_list">
-  <li><a href="#who-am-i">Who am I?</a></li>
- </ul>
-</div>
-
-
 # Who am I? 
 
 Kevin Esoh from Cameroon.

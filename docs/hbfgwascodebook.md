@@ -4,23 +4,30 @@ layout: pages
 description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis
 ---
 
-# Project title
+# Title
  
-Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis
+<p align="center">
+ <em><strong>Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis</strong></em>
+</p>
 
-## The codes below demonstrate how we processed clinical data employed in our analysis
+**Content**
+
+[Load required r package](#load-required-r-package)
+[Clinical datasets](#clinical-datasets)
+  [Summary of Cameroon data](##summary-of-cameroon-data)
+
+# Load require r package
 
 
     library(tidyverse)
 
-Clinical datasets
-=================
+# Clinical datasets
+
 
     cm <- read_table("../clinicaldata/cm_clinical_data.tsv")
     tz <- read_table("../clinicaldata/tz_clinical_data.tsv")
 
-Summary of Cameroon data
-------------------------
+## Summary of Cameroon data
 
 ### variables
 
