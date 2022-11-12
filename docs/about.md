@@ -3,6 +3,11 @@ title: About
 layout: pages
 ---
 
+<div align="right">
+  <li><a href="#who-am-i">Who am I?</a>
+</div>
+
+
 # Who am I? 
 
 Kevin Esoh from Cameroon.
@@ -68,9 +73,6 @@ What is esohinformatics?
 What is the goal?
 =================
 
-<p align="right">
-  [Back to top](#who-am-i)
-</p>
 
 ***Under development***
 
