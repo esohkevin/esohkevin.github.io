@@ -4,14 +4,10 @@ layout: pages
 ---
 
 <div id="toc_container">
-<p class="toc_title">Contents</p>
-<ul class="toc_list">
-<li><a href="#who-am-i">Who am I?</a>
-<li><a href="#question_2">Heading 2</a>
-<li><a href="#question_3">Heading 3</a>
-<li><a href="#question_4">Heading 4</a>
-<li><a href="#question_5">Heading 5</a>
-</ul>
+ <p class="toc_title">Contents</p>
+ <ul class="toc_list">
+  <li><a href="#who-am-i">Who am I?</a></li>
+ </ul>
 </div>
 
 
