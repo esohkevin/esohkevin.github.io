@@ -1,6 +1,7 @@
 ---
 title: Tutorials
 layout: pages
+permalink: /tutorials/
 ---
 
 List of tutorials. Click a link to go to the page
