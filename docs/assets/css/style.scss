@@ -7,15 +7,16 @@
  * Table styles
  * -------------- */
 
-table {
+table, th, td {
   width: 100%;
-  align: center;
   text-align: center;
 }
 
+/*
 th, td {
   text-align: center;
 }
+*/
 
 tr:nth-child(even) {
   width: 50%;
