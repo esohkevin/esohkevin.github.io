@@ -3,13 +3,9 @@ title: About
 layout: pages
 ---
 
-
-<div align="right">
- <p>
+<p>
   <li><a href="#who-am-i">Who am I?</a>
- </p>
-</div>
-
+</p>
 
 # Who am I? 
 
