@@ -1,7 +1,6 @@
 ---
 title: Coverting Illumina IDAT to VCF/PLINK BINARY
 layout: pages
-permalink: /concert-idat-to-vcf.html
 ---
 
 # Requirements
