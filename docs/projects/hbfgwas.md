@@ -147,7 +147,7 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     )
 
 <p align="center">
-  <img src="./figures/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals" />
+  <img src="/figures/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals" />
 </p>
 <p class="caption" align="center">
 Figue 1. Proportion of females and males in the discovery dataset of
@@ -248,7 +248,7 @@ Atypical/Atypical*
     )
 
 <p align="center">
-  <img src="./figures/unnamed-chunk-9-1.png" alt="Figure 2. Proportion of females and males in the replication dataset of Tanzanian inidividuals"  />
+  <img src="/figures/unnamed-chunk-9-1.png" alt="Figure 2. Proportion of females and males in the replication dataset of Tanzanian inidividuals"  />
 </p>
 <p class="caption" align="center">
 Figure 2. Proportion of females and males in the replication dataset of
@@ -336,7 +336,7 @@ Tanzanian inidividuals
     polygon(tz.nhbf.den, col=5)
 
 <p align="center">
-  <img src="./figures/unnamed-chunk-12-1.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-2.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-3.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-4.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" />
+  <img src="/figures/unnamed-chunk-12-1.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="/figures/unnamed-chunk-12-2.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="/figures/unnamed-chunk-12-3.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="/figures/unnamed-chunk-12-4.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" />
 </p>
 <p class="caption" align="center">
 Figure 3. HbF distribution in Cameroonian and Tanzanian study
