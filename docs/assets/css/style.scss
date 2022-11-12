@@ -10,16 +10,16 @@
 table {
   width: 100%;
   text-align: center;
-}
 
-
-th, td {
-  width: 4000px;
+  th, td {
+    width: 50%;
+  } 
 }
 
 tr:nth-child(even) {
   background-color: #D6EEEE;
 }
+
 
 /* ------------------------------------------
  * CSS3 GITHUB BUTTONS (Nicolas Gallagher)
