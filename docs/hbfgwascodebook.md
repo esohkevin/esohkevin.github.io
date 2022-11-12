@@ -16,7 +16,14 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
 2. [Clinical datasets](#clinicaldata)
 3. [Summary of Cameroon data](#summarycameroon)
 	1. [Variables](#variablescameroon)
-	2. [Summary statistics](#sumstatcameroon)
+	2. [Summary statistics](#sumstatscameroon)
+4. [Summary of Tanzania data](#summarytanzania)
+	1. [Variables](#variablestanzania)
+	2. [Summary statistics](#sumstatstanzania)
+5. [HbF normalization](#hbfnorm)
+	1. [Cameroon](#camhbfnorm)
+	2. [Tanzania](#tzhbfnorm)
+6. [HbF distribution before and after normalization](#hbfdistribution)
 
 
 # Load require r package <a name="loadpackage"></a>
@@ -46,7 +53,7 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     ## [22] "WBC"                 "Lymp"                "Mono"               
     ## [25] "Platelets"           "Curated_penotype"    "Sample_name_comment"
 
-## Summary statistics <a name="sumstatcameroon"></a>
+## Summary statistics <a name="sumstatscameroon"></a>
 
 **Quantitative/Continuous variables**
 
@@ -139,7 +146,9 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
        line = 1
     )
 
-<img src="./figures/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals" align="center" />
+<p align="center">
+  <img src="./figures/unnamed-chunk-5-1.png" alt="Figue 1. Proportion of females and males in the discovery dataset of Cameroonian inidividuals" />
+</p>
 <p class="caption" align="center">
 Figue 1. Proportion of females and males in the discovery dataset of
 Cameroonian inidividuals
@@ -152,13 +161,15 @@ Cameroonian inidividuals
     ##   No  Yes 
     ## 1195   46
 
-    cm %>% select(athal) %>% table()    # 3.7 kb HbA1/HbA2 alpha thalassaemia deletion
+    # 3.7 kb HbA1/HbA2 alpha thalassaemia deletion
+    cm %>% select(athal) %>% table()
 
     ## .
     ## α3.7/α3.7   αα/α3.7     αα/αα 
     ##        18       101       286
 
-    cm %>% select(Haplotypes) %>% table()       # HBB gene cluster haplotypes
+    # HBB gene cluster haplotypes
+    cm %>% select(Haplotypes) %>% table()
 
     ## .
     ##     Atypical          BEN       BEN/AI BEN/Atypical      BEN/CAM      BEN/CAR 
@@ -236,18 +247,19 @@ Atypical/Atypical*
        line = 1
     )
 
-<img src="./figures/unnamed-chunk-9-1.png" alt="Figure 2. Proportion of females and males in the replication dataset of Tanzanian inidividuals"  />
-<p class="caption">
+<p align="center">
+  <img src="./figures/unnamed-chunk-9-1.png" alt="Figure 2. Proportion of females and males in the replication dataset of Tanzanian inidividuals"  />
+</p>
+<p class="caption" align="center">
 Figure 2. Proportion of females and males in the replication dataset of
 Tanzanian inidividuals
 </p>
 
 ------------------------------------------------------------------------
 
-HbF normalization (Cubic root)
-==============================
+# HbF normalization (Cubic root) <a name="hbfnorm"></a>
 
-### Cameroon
+## Cameroon <a name="camhbfnorm"></a>
 
     cm %>% 
        mutate(normalizedHbF = HbF^(1/3)) -> cm.hbf.norm 
@@ -275,7 +287,7 @@ HbF normalization (Cubic root)
     ## 5  17.5          2.60
     ## 6  17.8          2.61
 
-### Tanzania
+## Tanzania <a name="tzhbfnorm"></a>
 
     # Tanzania
     tz %>%
@@ -296,6 +308,38 @@ HbF normalization (Cubic root)
 
     ## # A tibble: 6 × 2
 
+<table>
+  <tr>
+    <th>HbF</th>
+    <th>normalizedHbF</th>
+  </tr>
+  <tr>
+    <td>0.2</td>
+    <td>0.585</td>
+  </tr>
+  <tr>
+    <td>0.3</td>
+    <td>0.669</td>
+  </tr>
+  <tr>
+    <td>0.3</td>
+    <td>0.669</td>
+  </tr>
+  <tr>
+    <td>0.3</td>
+    <td>0.669</td>
+  </tr>
+  <tr>
+    <td>0.3</td>
+    <td>0.669</td>
+  </tr>
+  <tr>
+    <td>0.4</td>
+    <td>0.737</td>
+  </tr>
+</table>
+
+
 | HbF   | normalizedHbF |
 | :---: | :-----------: |
 | <dbl> |     <dbl>     |
@@ -307,7 +351,7 @@ HbF normalization (Cubic root)
 |  0.3  |     0.669     |
 |  0.4  |     0.737     |
 
-### HbF distribution before and after normalization
+# HbF distribution before and after normalization <a name="hbfdistribution"></a>
 
     cm.hbf.den <- density(cm.hbf.norm$HbF)
     cm.nhbf.den <- density(cm.hbf.norm$normalizedHbF)
@@ -325,10 +369,10 @@ HbF normalization (Cubic root)
     plot(tz.nhbf.den, ylab="", main="Tanzania normalized HbF")
     polygon(tz.nhbf.den, col=5)
 
-<img src="./figures/unnamed-chunk-12-1.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-2.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-3.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-4.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" />
-<p class="caption">
+<p align="center">
+  <img src="./figures/unnamed-chunk-12-1.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-2.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-3.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" /><img src="./figures/unnamed-chunk-12-4.png" alt="Figure 3. HbF distribution in Cameroonian and Tanzanian study participants before and after normalization" width="50%" />
+</p>
+<p class="caption" align="center">
 Figure 3. HbF distribution in Cameroonian and Tanzanian study
 participants before and after normalization
 </p>
-
-[back](./)
