@@ -1,11 +1,12 @@
 ---
 title: Projects
 layout: pages
+parmalink: /project/
 ---
 
 # List of projects
 
-1. [HbF genomics](./_projects/hbfgwascodebook.md)
+1. [HbF genomics](./hbfgwascodebook.html)
 
 
 ***Under development***
