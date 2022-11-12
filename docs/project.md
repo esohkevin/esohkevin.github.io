@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: pages
-parmalink: /project/
+parmalink: /projects/
 ---
 
 # List of projects
