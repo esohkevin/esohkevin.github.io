@@ -7,19 +7,17 @@
  * Table styles
  * -------------- */
 
-table, th, td {
+table {
   width: 100%;
   text-align: center;
 }
 
-/*
+
 th, td {
-  text-align: center;
+  width: 50%;
 }
-*/
 
 tr:nth-child(even) {
-  width: 50%;
   background-color: #D6EEEE;
 }
 
