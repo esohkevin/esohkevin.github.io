@@ -4,8 +4,6 @@ layout: pages
 description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis
 ---
 
-# Title
- 
 <p align="center">
  <em><strong>Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis</strong></em>
 </p>
@@ -26,20 +24,20 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
 6. [HbF distribution before and after normalization](#hbfdistribution)
 
 
-# Load require r package <a name="loadpackage"></a>
+## Load require r package <a name="loadpackage"></a>
 
 
     library(tidyverse)
 
-# Clinical datasets <a name="clinicaldata"></a>
+## Clinical datasets <a name="clinicaldata"></a>
 
 
     cm <- read_table("../clinicaldata/cm_clinical_data.tsv")
     tz <- read_table("../clinicaldata/tz_clinical_data.tsv")
 
-# Summary of Cameroon data <a name="summarycameroon"></a>
+## Summary of Cameroon data <a name="summarycameroon"></a>
 
-## Variables <a name="variablescameroon"></a>
+### Variables <a name="variablescameroon"></a>
 
     cm %>% names()
 
@@ -53,7 +51,7 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
     ## [22] "WBC"                 "Lymp"                "Mono"               
     ## [25] "Platelets"           "Curated_penotype"    "Sample_name_comment"
 
-## Summary statistics <a name="sumstatscameroon"></a>
+### Summary statistics <a name="sumstatscameroon"></a>
 
 **Quantitative/Continuous variables**
 
@@ -182,15 +180,15 @@ Cameroonian inidividuals
 *CAM = CAM/CAM, BEN = BEN/BEN, SEN = SEN/SEN, CAR = CAR/CAR, Atypical =
 Atypical/Atypical*
 
-# Summary of Tanzania data <a name="summarytanzania"><a/>
+## Summary of Tanzania data <a name="summarytanzania"><a/>
 
-## Variables <a name="variablestanzania"></a>
+### Variables <a name="variablestanzania"></a>
 
     tz %>% names()
 
     ## [1] "FID" "IID" "AGE" "HbF" "SEX"
 
-## Summary statistics <a name="sumstatstanzania"></a>
+### Summary statistics <a name="sumstatstanzania"></a>
 
 **Quantitative/Continuous variables**
 
@@ -257,9 +255,9 @@ Tanzanian inidividuals
 
 ------------------------------------------------------------------------
 
-# HbF normalization (Cubic root) <a name="hbfnorm"></a>
+## HbF normalization (Cubic root) <a name="hbfnorm"></a>
 
-## Cameroon <a name="camhbfnorm"></a>
+### Cameroon <a name="camhbfnorm"></a>
 
     cm %>% 
        mutate(normalizedHbF = HbF^(1/3)) -> cm.hbf.norm 
@@ -287,7 +285,7 @@ Tanzanian inidividuals
     ## 5  17.5          2.60
     ## 6  17.8          2.61
 
-## Tanzania <a name="tzhbfnorm"></a>
+### Tanzania <a name="tzhbfnorm"></a>
 
     # Tanzania
     tz %>%
@@ -317,7 +315,7 @@ Tanzanian inidividuals
 |  0.3  |     0.669     |
 |  0.4  |     0.737     |
 
-# HbF distribution before and after normalization <a name="hbfdistribution"></a>
+## HbF distribution before and after normalization <a name="hbfdistribution"></a>
 
     cm.hbf.den <- density(cm.hbf.norm$HbF)
     cm.nhbf.den <- density(cm.hbf.norm$normalizedHbF)
