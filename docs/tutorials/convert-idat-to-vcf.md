@@ -6,7 +6,7 @@ layout: pages
 **Content**
 
 1. [Requirements](#requirements)
-2. [Step-by-Step procedure](#precedure)
+2. [Step-by-Step procedure](#procedure)
 
 ## Requirements
 
