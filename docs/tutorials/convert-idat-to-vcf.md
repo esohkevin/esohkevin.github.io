@@ -31,35 +31,35 @@ layout: pages
 
    Mac user may replace ```wget``` with ```curl``` or an equivalent of the packages
 
-   ```
-   # Linux users
-   wget ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz
+```
+# Linux users
+wget ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz
 
-   # Mac users
-   curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz --output iaap-cli-linux-x64-1.1.0.tar.gz
-   ```
+# Mac users
+curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz --output iaap-cli-linux-x64-1.1.0.tar.gz
+```
 
 2. Install iaap-cli
 
    The following instructions have been adapted from https://github.com/freeseek/gtc2vcf. 
    You may visit the github page for further useful information
 
-   ```
-   # setup some relevant paths
-   mkdir -p $HOME/bin && cd /tmp
-   
-   # Extract and place iaap-cli in the relevant paths
-   tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/iaap-cli --strip-components=1
-   ```
+```
+# setup some relevant paths
+mkdir -p $HOME/bin && cd /tmp
+
+# Extract and place iaap-cli in the relevant paths
+tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/iaap-cli --strip-components=1
+```
 
 3. Get a pre-compiled binary of bcftools containing the gtc2vcf plugin
 
-   ```
-   # Linux users
-   wget https://software.broadinstitute.org/software/gtc2vcf/gtc2vcf_1.15.1-20220518.zip
+```
+# Linux users
+wget https://software.broadinstitute.org/software/gtc2vcf/gtc2vcf_1.15.1-20220518.zip
 
-   # Mac users
-   curl https://software.broadinstitute.org/software/gtc2vcf/gtc2vcf_1.15.1-20220518.zip --output gtc2vcf_1.15.1-20220518.zip
-   ```
+# Mac users
+curl https://software.broadinstitute.org/software/gtc2vcf/gtc2vcf_1.15.1-20220518.zip --output gtc2vcf_1.15.1-20220518.zip
+```
 
 
