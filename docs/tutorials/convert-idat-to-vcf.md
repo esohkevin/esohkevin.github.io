@@ -31,7 +31,7 @@ layout: pages
 
    Mac user may replace ```wget``` with ```curl``` or an equivalent of the packages
 
-```
+```shell
 # Linux users
 wget ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz
 
@@ -44,7 +44,7 @@ curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-
    The following instructions have been adapted from https://github.com/freeseek/gtc2vcf. 
    You may visit the github page for further useful information
 
-```
+```shell
 # setup some relevant paths
 mkdir -p $HOME/bin && cd /tmp
 
@@ -54,7 +54,7 @@ tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/
 
 3. Get a pre-compiled binary of bcftools containing the gtc2vcf plugin
 
-```
+```shell
 # Linux users
 wget https://software.broadinstitute.org/software/gtc2vcf/gtc2vcf_1.15.1-20220518.zip
 
