@@ -21,28 +21,32 @@ layout: pages
 - If you used the **H3Africa chip**, these files can be downloaded from [here](https://chipinfo.h3abionet.org/downloads) 
 - You can find more resources from the Illumina website [here](https://emea.support.illumina.com/array/downloads.html)
 
+* * *
+
 ## Step-by-step procedure <a name="procedure"></a>
 
-1. Download iaap-cli
+### Download iaap-cli
 
 - This can be downloaded from [here](https://emea.support.illumina.com/downloads/iaap-genotyping-cli.html)
 
   **Note** You need to create an account, and then you can download it freely.
 
-- Alternatively, you can run the code below (linux). This was adapted from [](https://github.com/freeseek/gtc2vcf)
+- Alternatively, you can run the code below (linux). This was adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf)
 
 
+***Linux users***
 ```shell
-# Linux users
 wget ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz
+```
 
-# Mac users
+***Mac users***
+```shell
 curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz --output iaap-cli-linux-x64-1.1.0.tar.gz
 ```
 
-2. Install iaap-cli
+### Install iaap-cli
 
-The following instructions have been adapted from [](https://github.com/freeseek/gtc2vcf). 
+The following instructions have been adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf). 
 You may visit the github page for further useful information
 
 ***setup some relevant paths***

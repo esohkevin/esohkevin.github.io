@@ -5,8 +5,10 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
 ---
 
 <p align="center">
- <em><strong>Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis</strong></em>
+ <strong>Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis</strong>
 </p>
+
+* * *
 
 **Content**
 1. [Load required r package](#loadpackage)
@@ -22,17 +24,22 @@ description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Stu
 	2. [Tanzania](#tzhbfnorm)
 6. [HbF distribution before and after normalization](#hbfdistribution)
 
+* * *
 
 ## Load require r package <a name="loadpackage"></a>
 ```r
 library(tidyverse)
 ```
 
+* * *
+
 ## Clinical datasets <a name="clinicaldata"></a>
 ```r
 cm <- read_table("../clinicaldata/cm_clinical_data.tsv")
 tz <- read_table("../clinicaldata/tz_clinical_data.tsv")
 ```
+
+* * *
 
 ## Summary of Cameroon data <a name="summarycameroon"></a>
 
@@ -184,6 +191,8 @@ cm %>% select(Haplotypes) %>% table()
 *CAM = CAM/CAM, BEN = BEN/BEN, SEN = SEN/SEN, CAR = CAR/CAR, Atypical =
 Atypical/Atypical*
 
+* * *
+
 ## Summary of Tanzania data <a name="summarytanzania"><a/>
 
 ### Variables <a name="variablestanzania"></a>
@@ -268,7 +277,7 @@ Figure 2. Proportion of females and males in the replication dataset of
 Tanzanian inidividuals
 </p>
 
-------------------------------------------------------------------------
+* * *
 
 ## HbF normalization (Cubic root) <a name="hbfnorm"></a>
 
@@ -301,6 +310,8 @@ cm.hbf.norm %>%
 ## 6  17.8          2.61
 ```
 
+* * *
+
 ### Tanzania <a name="tzhbfnorm"></a>
 ```r
 # Tanzania
@@ -330,6 +341,8 @@ tz.hbf.norm %>%
 ## 5   0.3          0.669
 ## 6   0.4          0.737
 ```
+
+* * *
 
 ## HbF distribution before and after normalization <a name="hbfdistribution"></a>
 ```r
