@@ -61,16 +61,33 @@ tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/
 
 ### Get a pre-compiled binary of gtc2vcf plugin for bcftools
 
-First, check your version of bcftools by typing ```bcftools``` on the command line
+First, create a new directory for your IDAT to VCF project in a location of your choice and migrate to the direcotry.
+```shell
+mkdir -p idat2vcf
+cd idat2vcf
+```
+
+***Note: I always use -p to avoid overwriting a directory if it already exists***
+
+Next, check your version of bcftools by typing bcftools
+
 ```shell
 bcftools
 ```
 
 Next, go to [https://software.broadinstitute.org/software/gtc2vcf/](https://software.broadinstitute.org/software/gtc2vcf/) 
-and download a pre-compiled version of gtc2vcf by clicking on ```binaries``` for the version that corresponds to your version 
+and download a pre-compiled version of gtc2vcf by clicking on `binaries` for the version that corresponds to your version 
 of bcftools. It will still work if your version of bcftools is higher than the version of gtc2vcf but not the other way round.
 
+
+<p align="center">
+  <img src="/tutorials/gtc2vcf-website.png" alt="https://software.broadinstitute.org/software/gtc2vcf/">
+</p>
+
+
 ***Note: Make sure your version of bcftools is greater than or equal to the version of gtc2vcf***
+
+Example
 
 ***Linux users***
 ```shell
@@ -81,5 +98,8 @@ wget https://software.broadinstitute.org/software/gtc2vcf/gtc2vcf_1.15.1-2022051
 ```shell
 curl https://software.broadinstitute.org/software/gtc2vcf/gtc2vcf_1.15.1-20220518.zip --output gtc2vcf_1.15.1-20220518.zip
 ```
+
+*Notice that this is version 1.15.1 for bcftools version 1.15.1 or higher*
+
 
 
