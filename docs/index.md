@@ -34,7 +34,7 @@ for( num in nums ) {
 ```
 
 
-```
+```html
 # github buttons
 <div class="actions ghbtn-container" align="center">
     <div class="ghbtn-group">
