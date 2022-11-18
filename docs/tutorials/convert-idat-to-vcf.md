@@ -3,7 +3,7 @@ title: Coverting Illumina IDAT to VCF/PLINK BINARY
 layout: pages
 ---
 
-**Content**
+### Content
 
 1. [Requirements](#requirements)
 2. [Step-by-Step procedure](#procedure)
