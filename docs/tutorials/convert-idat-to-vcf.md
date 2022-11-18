@@ -59,7 +59,7 @@ mkdir -p $HOME/bin && cd /tmp
 tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/iaap-cli --strip-components=1
 ```
 
-3. Get a pre-compiled binary of bcftools containing the gtc2vcf plugin
+### Get a pre-compiled binary of bcftools containing the gtc2vcf plugin
 
 ***Linux users***
 ```shell
