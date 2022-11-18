@@ -310,8 +310,6 @@ cm.hbf.norm %>%
 ## 6  17.8          2.61
 ```
 
-* * *
-
 ### Tanzania <a name="tzhbfnorm"></a>
 ```r
 # Tanzania
