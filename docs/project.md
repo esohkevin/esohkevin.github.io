@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: HbF Genomics
 layout: pages
 parmalink: /projects/
 ---

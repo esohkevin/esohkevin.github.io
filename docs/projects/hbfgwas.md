@@ -1,5 +1,5 @@
 ---
-title: HbF Genomics
+title: HbF GWAS in Sickle Cell Anemia Patients of African Ancestry
 layout: pages
 description: Novel Fetal Hemoglobin Modifying Loci Revealed with Genome Wide Studies of Sickle Cell Disease Patients from Cameroon, and Global Metanalysis
 ---
