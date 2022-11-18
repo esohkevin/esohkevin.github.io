@@ -59,7 +59,18 @@ mkdir -p $HOME/bin && cd /tmp
 tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/iaap-cli --strip-components=1
 ```
 
-### Get a pre-compiled binary of bcftools containing the gtc2vcf plugin
+### Get a pre-compiled binary of gtc2vcf plugin for bcftools
+
+First, check your version of bcftools by typing ```bcftools``` on the command line
+```shell
+bcftools
+```
+
+Next, go to [https://software.broadinstitute.org/software/gtc2vcf/](https://software.broadinstitute.org/software/gtc2vcf/) 
+and download a pre-compiled version of gtc2vcf by clicking on ```binaries``` for the version that corresponds to your version 
+of bcftools. It will still work if your version of bcftools is higher than the version of gtc2vcf but not the other way round.
+
+***Note: Make sure your version of bcftools is greater than or equal to the version of gtc2vcf***
 
 ***Linux users***
 ```shell
