@@ -51,14 +51,60 @@ curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-
 The following instructions have been adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf). 
 You may visit the github page for further useful information
 
-***setup some relevant paths***
+***First***, setup some relevant paths
 ```shell
 mkdir -p $HOME/bin && cd /tmp
 ```
 
-***Extract and place iaap-cli in the relevant paths***
+***Next***, Extract and place iaap-cli in the relevant paths
 ```shell
 tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/iaap-cli --strip-components=1
+```
+
+***Next***, add `$HOME/bin/` to your PATH
+```shell
+echo "export PATH=${PATH}:${HOME}/bin" >> ~/.bashrc
+```
+
+Otherwise, Make sure to run the command bellow each time prior to running `gencall`
+
+```shell
+export PATH=${PATH}:${HOME}/bin
+```
+
+***Then***, check that the installation is done properly
+```shell
+gencall --help
+
+
+# Usage: iaap-cli gencall [arguments] [options]
+# 
+# Arguments:
+#   [manifest]       Location of BPM manifest file to use.
+#   [cluster-file]   Location of EGT cluster file to use.
+#   [output-folder]  Location to output genotype files.
+# 
+# Options:
+#   -?|-h|--help                                                      Show help information
+#   -f|--idat-folder <idat-folder>                                    Location of IDAT folder. Will recurse subdirectories to convert all IDAT files.
+#   -s|--sample-sheet <sample-sheet.csv>                              Location of sample sheet csv. See documentation for sample sheet format.
+#   -g|--output-gtc                                                   Will output GTC files for genotype info (default = false)
+#   -p|--output-ped                                                   Will output PED files for genotype info (default = false) 
+#   -pt|--output-ped-tab-delimited                                    Will output PED files delimited by tabs (default = false)
+#   -pcs|--output-ped-customer-strand                                 Will output PED files using customer strand (default = false)
+#   -i|--gentrain-id <gentrain-id>                                    Version of Gentrain algorithm to use (default = 3)
+#   -c|--gencall-cutoff <gencall-cutoff>                              Cutoff score for gencall algorithm (default = 0.15)
+#   -t|--num-threads <num-threads>                                    Number of parallel threads to run (default = 1)
+#   -b|--gtc-write-buffer-size <buffer-size>                          Buffer size used when writing GTC files (default = 131072)
+#   -emi|--gender-estimate-min-loci <min-loci>                        Minimum number of autosomal loci for gender estimation (default = 100)
+#   -ema|--gender-estimate-max-loci <max-loci>                        Maximum number of autosomal loci for gender estimation (default = 10000)
+#   -emx|--gender-estimate-min-x-loci <min-x-loci>                    Minimum number of X loci for gender estimation (default = 20)
+#   -emy|--gender-estimate-min-y-loci <min-y-loci>                    Minimum number of Y loci for gender estimation (default = 20)
+#   -ec|--gender-estimate-call-rate-threshold <call-rate-threshold>   Threshold for autosomal call rate for gender estimation (default = 0.97)
+#   -eyt|--gender-estimate-y-threshold <y-threshold>                  Threshold for Y intensity for gender estimation (default = 0.3)
+#   -ext|--gender-estimate-x-threshold <x-threshold>                  Threshold for X intensity for gender estimation (default = 0.9)
+#   -eht|--gender-estimate-x-het-rate-threshold <het-rate-threshold>  Threshold for X Het Rate for gender estimation (default = 0.1)
+#   -inc|--include-file <include-file>                                Location to Loci of Interest file.
 ```
 
 ### Get a pre-compiled binary of gtc2vcf plugin for bcftools
