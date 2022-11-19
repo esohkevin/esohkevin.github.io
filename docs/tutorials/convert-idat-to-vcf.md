@@ -64,6 +64,8 @@ tar xzvf iaap-cli-linux-x64-1.1.0.tar.gz -C $HOME/bin/ iaap-cli-linux-x64-1.1.0/
 ***Next***, add `$HOME/bin/` to your PATH
 ```shell
 echo "export PATH=${PATH}:${HOME}/bin" >> ~/.bashrc
+
+source ~/.bashrc
 ```
 
 Otherwise, Make sure to run the command bellow each time prior to running `gencall`
