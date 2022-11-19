@@ -3,6 +3,8 @@ title: Coverting Illumina IDAT to VCF/PLINK BINARY
 layout: pages
 ---
 
+*Posted: November 19, 2022*
+
 ### Content
 
 1. [Requirements](#requirements)
@@ -196,7 +198,7 @@ bcftools plugin /home/kesoh/esoh/git/esohinformatics/projects/idat2vcf/gtc2vcf.s
 ```shell
 plugin_dir="/home/kesoh/esoh/git/esohinformatics/projects/idat2vcf/"
 
-bcftools plugin ${plugin_dir}gtc2vcf.so --help
+bcftools plugin ${plugin_dir}gtc2vcf.so -help
 ```
 
 *In the second example, I have saved the abosulte path into a variable called `plugin_dir`, and used 
