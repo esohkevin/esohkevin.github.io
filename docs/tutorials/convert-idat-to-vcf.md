@@ -20,7 +20,7 @@ layout: pages
 
 3. Manifest and cluster files for the chip used to generate your IDAT files
 - The manifest for the chip used to generate your data should typically be provided to you
-- If you used the **H3Africa chip**, these files can be downloaded from [here](https://chipinfo.h3abionet.org/downloads) 
+- If you used the **H3Africa chip**, these files can be downloaded from [here](https://chipinfo.h3abionet.org/downloads){:target="_blank"}
 - You can find more resources from the Illumina website [here](https://emea.support.illumina.com/array/downloads.html)
 
 * * *
