@@ -21,7 +21,7 @@ layout: pages
 3. Manifest and cluster files for the chip used to generate your IDAT files
 - The manifest for the chip used to generate your data should typically be provided to you
 - If you used the **H3Africa chip**, these files can be downloaded from [here](https://chipinfo.h3abionet.org/downloads){:target="_blank"}
-- You can find more resources from the Illumina website [here](https://emea.support.illumina.com/array/downloads.html)
+- You can find more resources from the Illumina website [here](https://emea.support.illumina.com/array/downloads.html){:target="_blank"}
 
 * * *
 
@@ -29,26 +29,26 @@ layout: pages
 
 ### Download iaap-cli
 
-- This can be downloaded from [here](https://emea.support.illumina.com/downloads/iaap-genotyping-cli.html)
+- This can be downloaded from [here](https://emea.support.illumina.com/downloads/iaap-genotyping-cli.html){:target="_blank"}
 
   **Note** You need to create an account, and then you can download it freely.
 
-- Alternatively, you can run the code below (linux). This was adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf)
+- Alternatively, you can run the code below (linux). This was adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf){:target="_blank"}
 
 
-***Linux users***
+*Linux users*
 ```shell
 wget ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz
 ```
 
-***Mac users***
+*Mac users*
 ```shell
 curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-cli-linux-x64-1.1.0.tar.gz --output iaap-cli-linux-x64-1.1.0.tar.gz
 ```
 
 ### Install iaap-cli
 
-The following instructions have been adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf). 
+The following instructions have been adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf){:target="_blank"}. 
 You may visit the github page for further useful information
 
 ***First***, setup some relevant paths
@@ -125,16 +125,18 @@ cd idat2vcf
 bcftools
 ```
 
-***Next***, go to [https://software.broadinstitute.org/software/gtc2vcf/](https://software.broadinstitute.org/software/gtc2vcf/) 
+***Next***, go to [https://software.broadinstitute.org/software/gtc2vcf/](https://software.broadinstitute.org/software/gtc2vcf/){:target="_blank"} 
 and download a pre-compiled version of gtc2vcf by clicking on `binaries` for the version that corresponds to your version 
 of bcftools. 
 
 It will still work if your version of bcftools is higher than the version of gtc2vcf but not the other way round.
 
 <p align="center">
-  <img src="/tutorials/gtc2vcf-website.png" alt="https://software.broadinstitute.org/software/gtc2vcf/">
+  <img src="/tutorials/gtc2vcf-website.png" alt="https://software.broadinstitute.org/software/gtc2vcf/" width="60%">
 </p>
 
+
+![gtc2vcf website](/tutorials/gtc2vcf-website.png){:align="center", width="60%"}
 
 ***Note: Make sure your version of bcftools is greater than or equal to the version of gtc2vcf***
 
