@@ -254,4 +254,71 @@ the variable in the command line. This is a cleaner way of handling multiple com
 the absoulte path is called multiple times.*
 
 ### Convert Illumina IDAT files to GTC files 
+```shell
+
+bpm_manifest_file=""
+egt_cluster_file=""
+path_to_idat_folder=""
+path_to_output_folder=""
+
+gencall \
+   $bpm_manifest_file \
+   $egt_cluster_file \
+   $path_to_output_folder \
+   --idat-folder $path_to_idat_folder \
+   --output-gtc \
+   --num-threads 10
+```
+
+***Example***: Converting IDAT files to GTC processed using the H3Africa chip
+```shell
+gencall \
+   manifest/H3Africa_2017_20021485_A3.bpm \
+   manifest/GenomeStudio-H3Africa-array-clusters-HapMap2-186-samples.egt \
+   calls \
+   --idat-folder intensities \
+   --output-gtc \
+   --num-threads 10 \
+   --gender-estimate-call-rate-threshold 0.95 \
+   --gender-estimate-x-het-rate-threshold 0.2
+```
+
+Where 
+
+- `calls` is the directory to which the GTC files will be saved.
+- `intensities` is the directory containing the IDAT files. It could be a directory containing many subdirectories,
+   each containing a number of IDAT files. IDAT files must be in pairs of red and green. 
+
+***Run `gencall --help` for more options. Choose options and adjust parameters to suit your project objectives***
+
+### Convert GTC to VCF
+```shell
+ref_dir=""
+
+bcftools +gtc2vcf \
+   --bpm manifest/H3Africa_2017_20021485_A3.bpm \
+   --csv manifest/H3Africa_2017_20021485_A3.csv \
+   --egt clusterFile/GenomeStudio-H3Africa-array-clusters-HapMap2-186-samples.egt \
+   --gtcs gtcs.list.txt \
+   --fasta-ref ${ref_dir}human_g1k_v37.fasta.gz \
+   --extra summary_stats.txt | \
+   bcftools sort -T ./bcftools-sort.XXXXXX | \
+   bcftools norm \
+   --threads 15 \
+   --no-version \
+   -Oz \
+   -c x \
+   -f ${ref_dir}human_g1k_v37.fasta.gz | \
+   tee mycalls.vcf.gz | \
+   bcftools index \
+   --threads 15 \
+   -ft \
+   --output mycalls.vcf.gz.tbi
+```
+
+Where,
+
+- `gtcs.list.txt` is a list containing the gtc file names with their (absolute preferably)
+- `summary_stats.txt` is a file to which some important summary statistics like gencall call rate per sample will be stored
+
 
