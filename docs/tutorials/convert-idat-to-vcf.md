@@ -283,7 +283,7 @@ gencall \
    --gender-estimate-x-het-rate-threshold 0.2
 ```
 
-Where 
+Where,
 
 - `calls` is the directory to which the GTC files will be saved.
 - `intensities` is the directory containing the IDAT files. It could be a directory containing many subdirectories,
@@ -293,9 +293,10 @@ Where
 
 ### Convert GTC to VCF
 ```shell
-ref_dir=""
+plugin_dir="/your_gtc2vcf_plugin_directory/"
+ref_dir="/your_reference_directory/"
 
-bcftools +gtc2vcf \
+bcftools plugin ${plugin_dir}gtc2vcf.so \
    --bpm manifest/H3Africa_2017_20021485_A3.bpm \
    --csv manifest/H3Africa_2017_20021485_A3.csv \
    --egt clusterFile/GenomeStudio-H3Africa-array-clusters-HapMap2-186-samples.egt \
