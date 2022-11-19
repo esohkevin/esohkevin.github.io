@@ -1,5 +1,5 @@
 ---
-title: Coverting Illumina IDAT to VCF/PLINK BINARY
+title: Converting Illumina IDAT to VCF/PLINK PED
 layout: pages
 ---
 
