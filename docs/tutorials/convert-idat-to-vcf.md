@@ -173,10 +173,13 @@ bcftools plugin ./gtc2vcf.so -help
 #     bcftools +gtc2vcf -c GSA-24v3-0_A1.csv --sam-flank GSA-24v3-0_A1.sam -o GSA-24v3-0_A1.GRCh38.csv
 ```
 
+Although you see that a warning is thrown that the versions of bcftools and gtc2vcf are different,
+the command works anyway.
+
 ***Note how we call the plugin. We have used the relative path to gtc2vcf.so. 
 It is usually convenient to use absolute paths as much as possible***
 
-To do so in our case, run `pwd` to get the absolute for the current dorectory.
+To do so in our case, run `pwd` to get the absolute path for the current directory.
 ```shell
 pwd
 
@@ -196,9 +199,9 @@ plugin_dir="/home/kesoh/esoh/git/esohinformatics/projects/idat2vcf/"
 bcftools plugin ${plugin_dir}gtc2vcf.so --help
 ```
 
-*In the second example, I saved the abosulte path into a variable called plugin_dir, and used 
-the variable in the command line. This is clean way of handling multiple command lines in which 
-absolute path is used multiple times.*
+*In the second example, I have saved the abosulte path into a variable called `plugin_dir`, and used 
+the variable in the command line. This is cleaner way of handling multiple command lines in which 
+the absoulte path is used multiple times.*
 
 ### Convert Illumina IDAT files to GTC files 
 
