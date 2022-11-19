@@ -248,8 +248,8 @@ bcftools plugin ${plugin_dir}gtc2vcf.so -help
 ```
 
 *In the second example, I have saved the abosulte path into a variable called `plugin_dir`, and used 
-the variable in the command line. This is cleaner way of handling multiple command lines in which 
-the absoulte path is used multiple times.*
+the variable in the command line. This is a cleaner way of handling multiple command lines in which 
+the absoulte path is called multiple times.*
 
 ### Convert Illumina IDAT files to GTC files 
 
