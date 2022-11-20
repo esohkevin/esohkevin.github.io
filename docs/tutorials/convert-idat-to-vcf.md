@@ -136,7 +136,7 @@ It will still work if your version of bcftools is higher than the version of gtc
 </p>
 
 
-![gtc2vcf website](/tutorials/gtc2vcf-website.png){:width="75%", justify="center"}
+![gtc2vcf website](/tutorials/gtc2vcf-website.png){:justify="center"}
 
 ***Note: Make sure your version of bcftools is greater than or equal to the version of gtc2vcf***
 
