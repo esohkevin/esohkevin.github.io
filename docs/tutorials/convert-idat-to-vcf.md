@@ -291,7 +291,7 @@ Where,
 
 - `calls` is the directory to which the GTC files will be saved.
 - `intensities` is the directory containing the IDAT files. It could be a directory containing many subdirectories,
-   each containing a number of IDAT files. IDAT files must be in pairs of red and green. 
+   each containing a number of IDAT files. IDAT files must be in pairs of red and green intensities. 
 
 ***Run `gencall --help` for more options. Choose options and adjust parameters to suit your project objectives***
 
