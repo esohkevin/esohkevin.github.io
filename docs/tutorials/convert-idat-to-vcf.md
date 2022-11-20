@@ -6,7 +6,7 @@ layout: pages
 *Posted: November 19, 2022*
 
 <p align="center">
-  <img src="/assets/img/coffeecup.jpg" alt="F&C coffee cups" width="70%">
+  <img src="/assets/img/gtc2vcf_flow_diagram.png" alt="F&C coffee cups" width="80%">
 </p>
 
 ### Content
