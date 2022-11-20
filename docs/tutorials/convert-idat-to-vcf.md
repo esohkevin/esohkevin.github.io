@@ -5,6 +5,10 @@ layout: pages
 
 *Posted: November 19, 2022*
 
+<p align="center">
+  <img src="/assets/img/coffeecup.jpg" alt="F&C coffee cups">
+</p>
+
 ### Content
 
 1. [Requirements](#requirements)
@@ -132,7 +136,7 @@ of bcftools.
 It will still work if your version of bcftools is higher than the version of gtc2vcf but not the other way round.
 
 <p align="center">
-  <img src="/tutorials/gtc2vcf-website.png" alt="https://software.broadinstitute.org/software/gtc2vcf/" width="75%">
+  <img src="/assets/img/gtc2vcf-website.png" alt="https://software.broadinstitute.org/software/gtc2vcf/" width="75%">
 </p>
 
 
