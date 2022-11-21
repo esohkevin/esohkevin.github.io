@@ -121,9 +121,11 @@ mkdir -p idat2vcf
 cd idat2vcf
 ```
 
+<div width=100% height=50px>
 <p style="background-color:rgba(255, 255, 140, 0.7);">
-   <em>Note</em>: I always use -p to avoid overwriting a directory if it already exists
+   <strong><i>Note</i></strong>: I always use -p to avoid overwriting a directory if it already exists
 </p>
+</div>
 
 ***Next***, check your version of bcftools by typing bcftools
 
@@ -143,8 +145,6 @@ It will still work if your version of bcftools is higher than the version of gtc
 
 
 ***Note: Make sure your version of bcftools is greater than or equal to the version of gtc2vcf*** 
-
-Note: {:style="backgound-color:rgba(255, 255, 140, 0.7)"}
 
 **Example**
 
