@@ -9,7 +9,7 @@ layout: pages
   <img src="/assets/img/gtc2vcf_flow_diagram.png" alt="F&C coffee cups" width="80%">
 </p>
 
-### Content
+## Content
 
 1. [Requirements](#requirements)
 2. [Step-by-Step procedure](#procedure)
