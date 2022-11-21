@@ -142,7 +142,9 @@ It will still work if your version of bcftools is higher than the version of gtc
 </p>
 
 
-***Note: Make sure your version of bcftools is greater than or equal to the version of gtc2vcf***
+***Note: Make sure your version of bcftools is greater than or equal to the version of gtc2vcf*** 
+
+Note: {:style="backgound-color:rgba(255, 255, 140, 0.7)"}
 
 **Example**
 
