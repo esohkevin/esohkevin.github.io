@@ -121,7 +121,7 @@ mkdir -p idat2vcf
 cd idat2vcf
 ```
 
-<p style="background-color:rgba(255, 255, 140, 0.7);border:20px;" width=100% height=50px>
+<p style="background-color: rgba(255, 255, 140, 0.7); border: 20px solid black;">
    <strong><i>Note</i></strong>: I always use -p to avoid overwriting a directory if it already exists
 </p>
 
