@@ -122,7 +122,7 @@ cd idat2vcf
 ```
 
 <p style="background-color:rgba(255, 255, 140, 0.7);">
-   <em>Note</em>: I always use -p to avoid overwriting a directory if it already exists***
+   <em>Note</em>: I always use -p to avoid overwriting a directory if it already exists
 </p>
 
 ***Next***, check your version of bcftools by typing bcftools
