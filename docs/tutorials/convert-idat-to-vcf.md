@@ -121,8 +121,12 @@ mkdir -p idat2vcf
 cd idat2vcf
 ```
 
-<p style="background-color: rgba(255, 255, 140, 0.7); border: 2px solid black;">
+<p style="background-color: rgba(255, 255, 140, 0.7);">
+   <br>
+   <br>
    <strong><i>Note</i></strong>: I always use -p to avoid overwriting a directory if it already exists
+   <br>
+   <br>
 </p>
 
 ***Next***, check your version of bcftools by typing bcftools
