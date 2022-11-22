@@ -27,13 +27,13 @@ My name is Kevin Esoh and I am from Cameroon.
 
 I am a PhD candidate in Human Genetics in the Division of Human Genetics at the
 University of Cape Town, South Africa. I work part-time as a Bioinformatician
-for the [GeneMAP](https://twitter.com/GeneMAPOfficial){:target="_blank" title="Genetic Medicin of African Populations"}
+for the [GeneMAP](https://twitter.com/GeneMAPOfficial){:target="_blank" title="Genetic Medicine of African Populations"}
 research group.
 
 I did my MSc studies in Bioinformatics and molecular biology in Kenya funded
 by [DELGEME](https://www.delgeme.org/){:target="_blank" title="Developing Excellence in Leadership and Genetics Training for Malaria Elimination in Africa"}. 
 My [project](http://ir.jkuat.ac.ke/handle/123456789/5663){:target="_blank"}
-wa based on malaria genomics in Cameroon where I first characterized the 
+was based on malaria genomics in Cameroon where I first characterized the 
 [genetic structure of some Cameroonian malaria-endemic populations](https://www.nature.com/articles/s41598-020-79124-1){:target="_blank"}, 
 and then I screened the genomes of the populations for markers of malaria 
 susceptibility markers. The genetic strutcure study was published in 
