@@ -4,7 +4,7 @@ layout: pages
 ---
 
 ## About esohinformatics
-
+* * *
 Learning bioinformatics [in Africa] was especially challenging, at least 
 for me. I learned the very hard way, mosty through google and youtube. 
 But more importantly, by having a problem to solve, my MSc project. I 
@@ -19,10 +19,10 @@ This will be in the form of tutorials and short posts.
 
 I will also share some command-line tricks that can make my work easy.
 
-* * *
+
 
 ## About me
-
+* * *
 My name is Kevin Esoh and I am from Cameroon.
 
 I am a PhD candidate in Human Genetics in the Division of Human Genetics at the
@@ -57,19 +57,16 @@ with him closely and we eventually published one of the first comprehensive
 [papers](https://www.nature.com/articles/s41598-019-40833-x){:target="_blank"} on reverse
 vaccinology based on multiple predicted epitopes from different antigenic proteins.
 
-* * *
 
 ## Summary
-
+* * *
 - **2020 - present**: Human Genetics PhD candidate, University of Cape Town, South Africa.
 - **2017 - 2019**: MSc in Bioinformatics and Molecular Biology, JKUAT, Kenya.
 - **2016 - 2017**: MSc in Biochemistry, University of Buea, Cameroon.
 - **2012 - 2015**: BSc in Biochemistry, University of Buea, Cameroon.
 
 
-* * *
-
 ## More info
-
+* * *
 Learn more about me and my education from my Q&A with the [Kenya Education Network](https://www.kenet.or.ke/blog/admin/qa-using-big-data-malaria-elimination-africa){:target="_blank"}
 
