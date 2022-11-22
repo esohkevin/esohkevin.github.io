@@ -59,10 +59,10 @@ vaccinology based on multiple predicted epitopes from different antigenic protei
 
 * * *
 
-- 2020 - present: Human Genetics PhD candidate, University of Cape Town, South Africa.
-- 2017 - 2019: MSc in Bioinformatics and Molecular Biology, JKUAT, Kenya.
-- 2016 - 2017: MSc in Biochemistry, University of Buea, Cameroon.
-- 2012 - 2015: BSc in Biochemistry, University of Buea, Cameroon.
+- **2020 - present**: Human Genetics PhD candidate, University of Cape Town, South Africa.
+- **2017 - 2019**: MSc in Bioinformatics and Molecular Biology, JKUAT, Kenya.
+- **2016 - 2017**: MSc in Biochemistry, University of Buea, Cameroon.
+- **2012 - 2015**: BSc in Biochemistry, University of Buea, Cameroon.
 
 
 * * *
