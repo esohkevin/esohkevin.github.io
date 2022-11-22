@@ -22,14 +22,20 @@ I will also share some command-line tricks that can make my work easy.
 
 
 ## What I do/can do
-
+* * *
 ### Core areas
-I work with data in these routinely
-- Genetic association studies (genome-wide and candidate gene or targeted genotyping)
-- NGS analysis (whole-genome, whole-exome) for monogenic and complex disease
-- Population genetics (human and *Plasmodium falciparum*, mutation age analysis)
+I work with data in these routinely.
+- Genetic association studies (genome-wide and candidate gene or targeted genotyping).
+- NGS analysis (whole-genome, whole-exome) for monogenic and complex diseases.
+- Population genetics (human and *Plasmodium falciparum*, mutation age analysis).
 
-### 
+### On needs basis
+I have worked on these extensively previously and have expertise, but currently do 
+so only on special requests. Or I have developed pipelines/workflows for colleagues. 
+- Pharmacogenomics.
+- Protein structure prediction and mutation analysis.
+- Molecular dynamic simulation.
+- Immune simulation for vaccine peptides/proteins.
 
 ## About me
 * * *
