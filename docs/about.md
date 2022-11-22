@@ -59,6 +59,8 @@ vaccinology based on multiple predicted epitopes from different antigenic protei
 
 * * *
 
+## Summary
+
 - **2020 - present**: Human Genetics PhD candidate, University of Cape Town, South Africa.
 - **2017 - 2019**: MSc in Bioinformatics and Molecular Biology, JKUAT, Kenya.
 - **2016 - 2017**: MSc in Biochemistry, University of Buea, Cameroon.
@@ -66,5 +68,8 @@ vaccinology based on multiple predicted epitopes from different antigenic protei
 
 
 * * *
+
+## More info
+
 Learn more about me and my education from my Q&A with the [Kenya Education Network](https://www.kenet.or.ke/blog/admin/qa-using-big-data-malaria-elimination-africa){:target="_blank"}
 
