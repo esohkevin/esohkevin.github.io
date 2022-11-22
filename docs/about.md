@@ -19,6 +19,8 @@ This will be in the form of tutorials and short posts.
 
 I will also share some command-line tricks that can make my work easy.
 
+* * *
+
 ## About me
 
 My name is Kevin Esoh and I am from Cameroon.
@@ -54,7 +56,12 @@ with him closely and we eventually published one of the first comprehensive
 [papers](https://www.nature.com/articles/s41598-019-40833-x) on reverse
 vaccinology based on multiple predicted epitopes from different antigenic proteins.
 
+* * *
 
+- 2020 - present: Human Genetics PhD candidate, University of Cape Town, South Africa.
+- 2017 - 2019: MSc in Bioinformatics and Molecular Biology, JKUAT, Kenya.
+- 2016 - 2017: MSc in Biochemistry, University of Buea, Cameroon.
+- 2012 - 2015: BSc in Biochemistry, University of Buea, Cameroon.
 
 ***Under development***
 
