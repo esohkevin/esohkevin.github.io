@@ -10,14 +10,13 @@ layout: pages
 </p>
 
 ## Content
-
+* * *
 1. [Requirements](#requirements)
 2. [Step-by-Step procedure](#procedure)
 
-* * *
 
 ## Requirements
-
+* * *
 1. Illumina Array Analysis Platform Genotyping Command Line (iaap-cl)
 
 2. The gtc2vcf bcftools plugin
@@ -27,10 +26,9 @@ layout: pages
 - If you used the **H3Africa chip**, these files can be downloaded from [here](https://chipinfo.h3abionet.org/downloads){:target="_blank"}
 - You can find more resources from the Illumina website [here](https://emea.support.illumina.com/array/downloads.html){:target="_blank"}
 
-* * *
 
 ## Step-by-step procedure <a name="procedure"></a>
-
+* * *
 ### Download iaap-cli
 
 - This can be downloaded from [here](https://emea.support.illumina.com/downloads/iaap-genotyping-cli.html){:target="_blank"}
@@ -51,7 +49,7 @@ curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-
 ```
 
 ### Install iaap-cli
-
+* * *
 The following instructions have been adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf){:target="_blank"}. 
 You may visit the github page for further useful information
 
@@ -114,7 +112,7 @@ gencall --help
 ```
 
 ### Get a pre-compiled binary of gtc2vcf plugin for bcftools
-
+* * *
 ***First***, create a new directory for your IDAT to VCF project in a location of your choice and migrate to the direcotry.
 ```shell
 mkdir -p idat2vcf
@@ -262,7 +260,7 @@ bcftools plugin ${plugin_dir}gtc2vcf.so -help
 the variable in the command line. This is a cleaner way of handling multiple command lines in which 
 the absoulte path is called multiple times.*
 
-### Convert Illumina IDAT files to GTC files 
+### Convert Illumina IDAT files to GTC files
 ```shell
 
 bpm_manifest_file=""
