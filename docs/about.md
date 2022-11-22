@@ -3,15 +3,49 @@ title: About
 layout: pages
 ---
 
-# Who am I? 
+# About esohinformatics
 
-Kevin Esoh from Cameroon.
+Learning bioinformatics [in Africa] was especially challenging, at least 
+for me. I learned the very hard way, mosty through google and youtube. 
+But more importantly, by having a problem to solve, my MSc project. I 
+believe patience and perseverance, in addtion to my passion and curiosity 
+made all the difference. I eventually picked a few tricks that I could liken
+to "the bioinformatics code" which might be useful to new learners.
+
+esohinformatics is a platform to share my solutions to some of the problems 
+I have encountered doing bioinformatics or problems tha come colleagues have 
+brought to that do not have any comprehensive solutions in the public domain.
+This will be in the form of tutorials and short posts.
+
+I will also share some command-line tricks that can make my work easy.
+
+# About me
+
+My name is Kevin Esoh and I am from Cameroon.
+
+I am a PhD candidate in Human Genetics in Division of Human Genetics at the
+University of Cape Town, South Africa. I work part-time as a bioinformatician
+for the [GeneMAP](https://twitter.com/GeneMAPOfficial){:target="_blank", title="Genetic Medicin of African Populations"}
+research group.
+
+I did my MSc studies in bioinformatics and molecular biology in Kenya funded
+by [DELGEME](https://www.delgeme.org/). My [project](http://ir.jkuat.ac.ke/handle/123456789/5663){:target="_blank"}
+wa based on human genomics malaria in Cameroon where are first characterized 
+the [genetic structure of some Cameroonian malaria-endemic populations](https://www.nature.com/articles/s41598-020-79124-1){:target="_blank"}, 
+and then I screened the genomes of the populations for markers of susceptibility markers.
 
 I did my undergrad studies in Cameroon at the University of Buea (UB)
-from 2012-2015. I majored in Biochemistry which I was passionate about,
-and minored in Medical Laboratory Technology. Thereafter, I registered
-for an MSc in Biochemistry in UB and did 18 months before getting a
-scholarship to study Bioinformatics in Kenya. I had become very
+from 2012-2015. I majored in Biochemistry and minored in Medical Laboratory 
+Technology (I couldn't have picked a better options). 
+
+Thereafter, I enrolled for an MSc in Biochemistry in UB but left that after
+18 months for an MSc in Bioinformatics in Kenya on scholarship funded by
+. 
+
+My MSc projects in 
+
+
+I had become very
 interested in Bioinformatics after undergrad, and during my MSc in
 Biochemistry, I tried as much as possible to incoorporate bioinformatics
 in my project. I initiated a project on reverse vaccinology for
@@ -65,8 +99,7 @@ genetic/genomic data file formats.
 What is esohinformatics?
 ========================
 
-What is the goal?
-=================
+
 
 
 ***Under development***
