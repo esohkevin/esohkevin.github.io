@@ -31,7 +31,8 @@ for the [GeneMAP](https://twitter.com/GeneMAPOfficial){:target="_blank" title="G
 research group.
 
 I did my MSc studies in Bioinformatics and molecular biology in Kenya funded
-by [DELGEME](https://www.delgeme.org/). My [project](http://ir.jkuat.ac.ke/handle/123456789/5663){:target="_blank" title="Developing Excellence in Leadership and Genetics Training for Malaria Elimination in Africa"}
+by [DELGEME](https://www.delgeme.org/){:target="_blank" title="Developing Excellence in Leadership and Genetics Training for Malaria Elimination in Africa"}. 
+My [project](http://ir.jkuat.ac.ke/handle/123456789/5663){:target="_blank"}
 wa based on malaria genomics in Cameroon where I first characterized the 
 [genetic structure of some Cameroonian malaria-endemic populations](https://www.nature.com/articles/s41598-020-79124-1){:target="_blank"}, 
 and then I screened the genomes of the populations for markers of malaria 
@@ -48,12 +49,12 @@ completed coursework and started a project before getting the scholarship to
 study in Kenya.
 
 The project was bioinformatics-oriented as I had become particulary interested, 
-in the field. The project was titled [Reverse vaccinology for Onchocerciasis vaccine development](https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw). I screened the entire proteome 
+in the field. The project was titled [Reverse vaccinology for Onchocerciasis vaccine development](https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw){:target="_blank"}. I screened the entire proteome 
 of *O. volvulus* (over 12,000 proteins) for antigenic or immunogenic proteins
 with the goal of finding potential vaccine candidates. The project was continued
 by my senior who was doing his PhD in Belgium on diagnostic strategies. I workied 
 with him closely and we eventually published one of the first comprehensive
-[papers](https://www.nature.com/articles/s41598-019-40833-x) on reverse
+[papers](https://www.nature.com/articles/s41598-019-40833-x){:target="_blank"} on reverse
 vaccinology based on multiple predicted epitopes from different antigenic proteins.
 
 * * *
@@ -63,5 +64,7 @@ vaccinology based on multiple predicted epitopes from different antigenic protei
 - 2016 - 2017: MSc in Biochemistry, University of Buea, Cameroon.
 - 2012 - 2015: BSc in Biochemistry, University of Buea, Cameroon.
 
-***Under development***
+
+* * *
+Learn more about me and my education from my Q&A with the [Kenya Education Network](https://www.kenet.or.ke/blog/admin/qa-using-big-data-malaria-elimination-africa){:target="_blank"}
 
