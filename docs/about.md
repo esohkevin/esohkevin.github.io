@@ -29,7 +29,7 @@ for the [GeneMAP](https://twitter.com/GeneMAPOfficial){:target="_blank" title="G
 research group.
 
 I did my MSc studies in Bioinformatics and molecular biology in Kenya funded
-by [DELGEME](https://www.delgeme.org/). My [project](http://ir.jkuat.ac.ke/handle/123456789/5663){:target="_blank"}
+by [DELGEME](https://www.delgeme.org/). My [project](http://ir.jkuat.ac.ke/handle/123456789/5663){:target="_blank" title="Developing Excellence in Leadership and Genetics Training for Malaria Elimination in Africa"}
 wa based on malaria genomics in Cameroon where I first characterized the 
 [genetic structure of some Cameroonian malaria-endemic populations](https://www.nature.com/articles/s41598-020-79124-1){:target="_blank"}, 
 and then I screened the genomes of the populations for markers of malaria 
