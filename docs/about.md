@@ -13,13 +13,23 @@ made all the difference. I eventually picked a few tricks that I could liken
 to "the bioinformatics code" which might be useful to new learners.
 
 **esohinformatics** is a platform to share my solutions to some of the problems 
-I have encountered doing bioinformatics or problems tha come colleagues have 
-brought to that do not have any comprehensive solutions in the public domain.
-This will be in the form of tutorials and short posts.
+I have encountered doing bioinformatics or problems that colleagues have 
+shared with me and that do not have comprehensive solutions in the public domain.
+I will share these in the form of tutorials and short posts. I will also share 
+workflows that I have developed for various projects.
 
 I will also share some command-line tricks that can make my work easy.
 
 
+## What I do/can do
+
+### Core areas
+I work with data in these routinely
+- Genetic association studies (genome-wide and candidate gene or targeted genotyping)
+- NGS analysis (whole-genome, whole-exome) for monogenic and complex disease
+- Population genetics (human and *Plasmodium falciparum*, mutation age analysis)
+
+### 
 
 ## About me
 * * *
