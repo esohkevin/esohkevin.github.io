@@ -1,6 +1,7 @@
 ---
-title: Converting Illumina IDAT to VCF/PLINK PED
 layout: pages
+title: Converting Illumina IDAT to VCF/PLINK PED
+keywords: illumna idat, vcf, genotype calling, genome-wide association study, gtc2vcf
 ---
 
 *Posted: November 19, 2022*
