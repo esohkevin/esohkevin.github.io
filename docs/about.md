@@ -40,7 +40,7 @@ so only on special requests. Or I have developed pipelines/workflows for colleag
 ## About me
 * * *
 
-<img src="assets/img/headshot_esoh.jpg" alt="headshot" width="30%" align="left">
+<img src="assets/img/headshot_esoh.jpg" alt="headshot" width="30%" align="left" style="vertical-align: middle; margin: 0px 50px;">
 
 My name is Kevin Esoh and I am from Cameroon.
 
