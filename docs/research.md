@@ -125,6 +125,7 @@ Manyisa N, De Kock C, Awandare GA, Mowla S, Wonkam A. Cell-based analysis of
 <i>CLIC5A</i> and <i>SLC12A2</i> variants associated with hearing impairment in
 two African families. Front Genet. 2022 Aug 11;13:924904. [https://doi.org/10.3389/fgene.2022.924904](https://doi.org/10.3389/fgene.2022.924904). 
 PMID: 36035115; PMCID: PMC9403182.
+
 <br>
 <span style="background-color: rgba(100, 20, 5, 0.9); color: rgba(250, 250, 250, 1.0); border-radius: 0.5rem; padding: 0.55rem; margin-bottom: -100px; margin-left: 35px;">
   <em>My contribution</em>
