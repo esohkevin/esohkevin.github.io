@@ -9,6 +9,7 @@ image: assets/img/esohinformatics-logo.svg
   <a href="/project.html" class="mybtn">Projects</a>
   <a href="/workflow.html" class="mybtn">Workflows</a>
   <a href="/tutorial.html" class="mybtn">Tutorials</a>
+  <a href="/post.html" class="mybtn">Posts</a>
   <a href="/research.html" class="mybtn">Research</a>
   <a href="/contact.html" class="mybtn">Contact</a>
  </div>
