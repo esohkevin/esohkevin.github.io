@@ -15,7 +15,7 @@ thus left to learn the core *Bioiformatics* on their own.
 
 Simply put, I learned Bioinformatics the very hard way. Luckily, I had Google and 
 YouTube to help me. But more importantly, I learned because I had a problem to solve, 
-my MSc project (deacribed below). I believe ***patience***, ***persistence***, and 
+my MSc project (described below). I believe ***patience***, ***persistence***, and 
 ***resilience***, in addtion to ***passion*** and ***curiosity*** are key to learning 
 Bioinformatics (as are key to learning anything). I can say I have picked up a few 
 tricks that might be useful to new learners as well as to other Bioinformaticians.
