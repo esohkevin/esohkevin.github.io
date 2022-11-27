@@ -129,13 +129,13 @@ PMID: 36035115; PMCID: PMC9403182.
 ***My contribution***
 
 <p style="background-color: rgba(210, 210, 210, 0.5); color: gray; padding: 1.5rem; text-align: left; border-radius: 0.4rem;">
-  <span style="background-color: rgba(200, 50, 50, 0.7); color: rgba(245, 245, 245, 1.0); border-radius: 0.5rem; padding: 1rem;">
+  <span style="background-color: rgba(170, 50, 50, 0.5); color: rgba(245, 245, 245, 1.0); border-radius: 0.5rem; padding: 0.75rem;">
     <em>My contribution</em>
   </span>
-
+  <br>
+  <br>
   I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
   which were vital for the introcution and discussions.
-
 </p>
 
 20. Aboagye ET, Adadey SM, **Esoh K**, Jonas M, de Kock C, Amenga-Etego L, Awandare
