@@ -20,8 +20,9 @@ my MSc project (described below). I believe ***patience***, ***persistence***, a
 Bioinformatics (as are key to learning anything). I can say I have picked up a few 
 tricks that should be useful to new learners as well as to other Bioinformaticians.
 
-**esohinformatics** is a platform to share my solutions to some of the problems 
-I have encountered doing bioinformatics or problems that colleagues have 
+**esohinformatics** is a platform to share some the tricks I picked from my approach 
+to learning Bioinformatics, as well as to share my solutions to some of the problems 
+I have encountered doing Bioinformatics or problems that colleagues have 
 shared with me and that do not have comprehensive solutions in the public domain.
 I will share these in the form of tutorials and short posts. I will also share 
 workflows that I have developed for various projects.
