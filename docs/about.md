@@ -27,7 +27,8 @@ shared with me and that do not have comprehensive solutions in the public domain
 I will share these in the form of tutorials and short posts. I will also share 
 workflows that I have developed for various projects.
 
-I will also share some command-line tricks that can make my work easy.
+I will also share some command-line tricks that can really make your Bioinformatics 
+life easy.
 
 
 ## What I do/can do
