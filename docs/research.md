@@ -77,14 +77,14 @@ monoallelic variant in EYA1 is associated with Branchio-Otic syndrome in a
 Malian family. Mol Genet Genomic Med. 2022 Jul;10(7):e1995. https://doi.org/10.1002/mgg3.1995. 
 Epub 2022 Jun 14. PMID: 35698919; PMCID: PMC9266589.
 
-13. Wonkam-Tingang E, Schrauwen I, Esoh KK, Bharadwaj T, Nouel-Saied LM, Acharya
+13. Wonkam-Tingang E, Schrauwen I, **Esoh KK**, Bharadwaj T, Nouel-Saied LM, Acharya
 A, Nasir A, Leal SM, Wonkam A. A novel variant in <i>DMXL2</i> gene is
 associated with autosomal dominant non-syndromic hearing impairment (DFNA71) in
 a Cameroonian family. Exp Biol Med (Maywood). 2021 Jul;246(13):1524-1532. 
 https://doi.org/10.1177/1535370221999746. Epub 2021 Mar 9. Erratum in: Exp Biol Med (Maywood).
 2021 Nov;246(21):NP5. PMID: 33715530; PMCID: PMC8283254.
 
-14. Wonkam-Tingang E, Schrauwen I, Esoh KK, Bharadwaj T, Nouel-Saied LM, Acharya
+14. Wonkam-Tingang E, Schrauwen I, **Esoh KK**, Bharadwaj T, Nouel-Saied LM, Acharya
 A, Nasir A, Adadey SM, Mowla S, Leal SM, Wonkam A. Bi-Allelic Novel Variants in
 <i>CLIC5</i> Identified in a Cameroonian Multiplex Family with Non-Syndromic
 Hearing Impairment. Genes (Basel). 2020 Oct 23;11(11):1249. https://doi.org/10.3390/genes11111249. 
@@ -92,7 +92,7 @@ PMID: 33114113; PMCID: PMC7690789.
 
 15. Nembaware V, Mazandu GK, Hotchkiss J, Safari Serufuri JM, Kent J, Kengne AP,
 Anie K, Munung NS, Bukini D, Bitoungui VJN, Munube D, Chirwa U, Chunda-Liyoka C,
-Jonathan A, Flor-Park MV, Esoh KK, Jonas M, Mnika K, Oosterwyk C, Masamu U,
+Jonathan A, Flor-Park MV, **Esoh KK**, Jonas M, Mnika K, Oosterwyk C, Masamu U,
 Morrice J, Uwineza A, Nguweneza A, Banda K, Nyanor I, Adjei DN, Siebu NE,
 Nkanyemka M, Kuona P, Tayo BO, Campbell A, Oron AP, Nnodu OE, Painstil V, Makani
 J, Mulder N, Wonkam A. The Sickle Cell Disease Ontology: Enabling Collaborative
@@ -100,7 +100,7 @@ Research and Co-Designing of New Planetary Health Applications. OMICS. 2020
 Oct;24(10):559-567. https://doi.org/10.1089/omi.2020.0153. PMID: 33021900; PMCID:
 PMC7549008.
 
-16. Shey RA, Ghogomu SM, Esoh KK, Nebangwa ND, Shintouo CM, Nongley NF, Asa BF,
+16. Shey RA, Ghogomu SM, **Esoh KK**, Nebangwa ND, Shintouo CM, Nongley NF, Asa BF,
 Ngale FN, Vanhamme L, Souopgui J. In-silico design of a multi-epitope vaccine
 candidate against onchocerciasis and related filarial diseases. Sci Rep. 2019
 Mar 13;9(1):4409. https://doi.org/10.1038/s41598-019-40833-x. PMID: 30867498; PMCID:
@@ -120,14 +120,15 @@ Ghana reveals known and candidate hearing impairment genes. Commun Biol. 2022
 Apr 19;5(1):369. https://doi.org/10.1038/s42003-022-03326-8. PMID: 35440622; PMCID:
 PMC9019055.
 
-19. Adadey SM, Wonkam-Tingang E, Alves de Souza Rios L, Aboagye ET, Esoh K,
+19. Adadey SM, Wonkam-Tingang E, Alves de Souza Rios L, Aboagye ET, **Esoh K**,
 Manyisa N, De Kock C, Awandare GA, Mowla S, Wonkam A. Cell-based analysis of
 <i>CLIC5A</i> and <i>SLC12A2</i> variants associated with hearing impairment in
 two African families. Front Genet. 2022 Aug 11;13:924904. https://doi.org/10.3389/fgene.2022.924904. 
 PMID: 36035115; PMCID: PMC9403182.
 
 ***My contribution***
-<p style="background-color: rgba(200, 200, 200, 0.6); color: gray; padding: 07rem; text-align: center;">
+
+<p style="background-color: rgba(210, 210, 210, 0.5); color: gray; padding: 0.75rem; text-align: center;">
   I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
   which were vital for the introcution and discussions.
 </p>
