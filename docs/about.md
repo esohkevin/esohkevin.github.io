@@ -5,12 +5,19 @@ layout: pages
 
 ## About esohinformatics
 * * *
-Learning bioinformatics [in Africa] was especially challenging, at least 
-for me. I learned the very hard way, mosty through google and youtube. 
-But more importantly, by having a problem to solve, my MSc project. I 
-believe patience and perseverance, in addtion to my passion and curiosity 
-made all the difference. I eventually picked a few tricks that I could liken
-to "the bioinformatics code" which might be useful to new learners.
+Learning bioinformatics can be challenging, especially in Africa where resources
+are limited, including expert supervision/mentorship. In addition, many students 
+tend to have numerous distracting commitments due in part to limited funding for
+their studies. Some of those who are fortunate to get funding face highly unstructured
+curricula or curricula that include little to nothing in Bioinformatics, and are 
+thus left to learn the core *Bioiformatics* on their own.
+
+Simply put, I learned Bioinformatics the very hard way. Luckily, I had Google and 
+YouTube to help me. But more importantly, I learned because I had a problem to solve, 
+my MSc project (deacribed below). I believe ***patience***, ***persistence***, and 
+***resilience***, in addtion to ***passion*** and ***curiosity*** are key to learning 
+Bioinformatics (as are key to learning anything). I can say I have picked up a few 
+tricks that might be useful to new learners as well as to other Bioinformaticians.
 
 **esohinformatics** is a platform to share my solutions to some of the problems 
 I have encountered doing bioinformatics or problems that colleagues have 
