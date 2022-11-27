@@ -39,6 +39,9 @@ so only on special requests. Or I have developed pipelines/workflows for colleag
 
 ## About me
 * * *
+
+<img src="/home/kesoh/Pictures/headshot_esoh.jpg" alt="headshot" align="left">
+
 My name is Kevin Esoh and I am from Cameroon.
 
 I am a PhD candidate in Human Genetics in the Division of Human Genetics at the
