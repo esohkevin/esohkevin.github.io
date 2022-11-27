@@ -78,7 +78,7 @@ After my BSc program, I enrolled for an MSc in Biochemistry in UB from 2016-2017
 completed coursework and started a project before getting the scholarship to 
 study in Kenya.
 
-The project was bioinformatics-oriented as I had become particulary interested, 
+The project was bioinformatics-oriented as I had become particulary interested 
 in the field. The project was titled [Reverse vaccinology for Onchocerciasis vaccine development](https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw){:target="_blank"}. I screened the entire proteome 
 of *O. volvulus* (over 12,000 proteins) for antigenic or immunogenic proteins
 with the goal of finding potential vaccine candidates. The project was continued
