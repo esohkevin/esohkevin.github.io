@@ -7,6 +7,7 @@ List of tutorials. Click a link to go to the page
 
 1. [Convert Illumina IDAT to VCF/PLINK BINARY using command line](/tutorials/convert-idat-to-vcf.html)
 
+2. [Selection scan using the REHH R package](#.)
 
 ***Under development***
 
