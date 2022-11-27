@@ -42,7 +42,7 @@ so only on special requests. Or I have developed pipelines/workflows for colleag
 
 <img src="assets/img/headshot_esoh.jpg" alt="headshot" width="30%" align="left" style="vertical-align: middle; margin: 0px 50px;">
 
-My name is Kevin Esoh and I am from Cameroon.
+Kevin Esoh from Cameroon.
 
 I am a PhD candidate in Human Genetics in the Division of Human Genetics at the
 University of Cape Town, South Africa. I work part-time as a Bioinformatician
