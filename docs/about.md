@@ -65,7 +65,7 @@ by [DELGEME](https://www.delgeme.org/){:target="_blank" title="Developing Excell
 My [project](http://ir.jkuat.ac.ke/handle/123456789/5663){:target="_blank"}
 was based on malaria genomics in Cameroon where I first characterized the 
 [genetic structure of some Cameroonian malaria-endemic populations](https://www.nature.com/articles/s41598-020-79124-1){:target="_blank"}, 
-and then I screened the genomes of the populations for markers of malaria 
+and then I screened the genomes of the populations for malaria 
 susceptibility markers. The genetic strutcure study was published in 
 *Scientific Reports*. The genome-wide assoction study (GWAS) uncovered 
 two novel malaria protective genes and it is currently under review.
