@@ -8,70 +8,70 @@ layout: pages
 
 ### Publications
 
-1. Esoh K, Wonkam A. Evolutionary history of sickle-cell mutation: implications
+1. **Esoh K**, Wonkam A. Evolutionary history of sickle-cell mutation: implications
 for global genetic medicine. Hum Mol Genet. 2021 Apr 26;30(R1):R119-R128. 
 https://doi.org/10.1093/hmg/ddab004. PMID: 33461216; PMCID: PMC8117455.
 
-2. Mwangi KW, Mainye N, Ouso DO, Esoh K, Muraya AW, Mwangi CK, Naitore C, Karega
+2. Mwangi KW, Mainye N, Ouso DO, **Esoh K**, Muraya AW, Mwangi CK, Naitore C, Karega
 P, Kibet-Rono G, Musundi S, Mutisya J, Mwangi E, Mgawe C, Miruka S, Kibet CK;
 OpenScienceKE Collaborators. Open Science in Kenya: Where Are We? Front Res Metr
 Anal. 2021 May 13;6:669675. https://doi.org/10.3389/frma.2021.669675. PMID: 34056516;
 PMCID: PMC8155710.
 
-3. Esoh K, Wonkam-Tingang E, Wonkam A. Sickle cell disease in sub-Saharan
+3. **Esoh K**, Wonkam-Tingang E, Wonkam A. Sickle cell disease in sub-Saharan
 Africa: transferable strategies for prevention and care. Lancet Haematol. 2021
 Oct;8(10):e744-e755. https://doi.org/10.1016/S2352-3026(21)00191-5. Epub 2021 Sep 2. PMID:
 34481550.
 
-4. Wonkam A, Munung NS, Dandara C, Esoh KK, Hanchard NA, Landoure G. Five
+4. Wonkam A, Munung NS, Dandara C, **Esoh KK**, Hanchard NA, Landoure G. Five
 Priorities of African Genomics Research: The Next Frontier. Annu Rev Genomics
 Hum Genet. 2022 Aug 31;23:499-521. https://doi.org/10.1146/annurev-genom-111521-102452.
 Epub 2022 May 16. PMID: 35576571.
 
-5. Adadey SM, Esoh KK, Quaye O, Amedofu GK, Awandare GA, Wonkam A. <i>GJB4</i>
+5. Adadey SM, **Esoh KK**, Quaye O, Amedofu GK, Awandare GA, Wonkam A. <i>GJB4</i>
 and <i>GJC3</i> variants in non-syndromic hearing impairment in Ghana. Exp Biol
 Med (Maywood). 2020 Sep;245(15):1355-1367. https://doi.org/10.1177/1535370220931035. Epub
 2020 Jun 11. PMID: 32524838; PMCID: PMC7441344.
 
-6. Adadey SM, Schrauwen I, Aboagye ET, Bharadwaj T, Esoh KK, Basit S, Acharya A,
+6. Adadey SM, Schrauwen I, Aboagye ET, Bharadwaj T, **Esoh KK**, Basit S, Acharya A,
 Nouel-Saied LM, Liaqat K, Wonkam-Tingang E, Mowla S, Awandare GA, Ahmad W, Leal
 SM, Wonkam A. Further confirmation of the association of SLC12A2 with non-
 syndromic autosomal-dominant hearing impairment. J Hum Genet. 2021
 Dec;66(12):1169-1175. https://doi.org/10.1038/s10038-021-00954-6. Epub 2021 Jul 5. PMID:
 34226616; PMCID: PMC8612923.
 
-7. Yalcouyé A, Esoh K, Guida L, Wonkam A. Current profile of Charcot-Marie-Tooth
+7. Yalcouyé A, **Esoh K**, Guida L, Wonkam A. Current profile of Charcot-Marie-Tooth
 disease in Africa: A systematic review. J Peripher Nerv Syst. 2022
 Jun;27(2):100-112. https://doi.org/10.1111/jns.12489. Epub 2022 Apr 5. PMID: 35383421;
 PMCID: PMC9322329.
 
-8. Esoh KK, Apinjoh TO, Nyanjom SG, Wonkam A, Chimusa ER, Amenga-Etego L,
+8. **Esoh KK**, Apinjoh TO, Nyanjom SG, Wonkam A, Chimusa ER, Amenga-Etego L,
 Amambua-Ngwa A, Achidi EA. Fine scale human genetic structure in three regions
 of Cameroon reveals episodic diversifying selection. Sci Rep. 2021 Jan
 13;11(1):1039. https://doi.org/10.1038/s41598-020-79124-1. PMID: 33441574; PMCID:
 PMC7807043.
 
 9. Manyisa N, Schrauwen I, de Souza Rios LA, Mowla S, Tekendo-Ngongang C, Popel
-K, Esoh K, Bharadwaj T, Nouel-Saied LM, Acharya A, Nasir A, Wonkam-Tingang E,
+K, **Esoh K**, Bharadwaj T, Nouel-Saied LM, Acharya A, Nasir A, Wonkam-Tingang E,
 Kock C, Dandara C, Leal SM, Wonkam A. A Monoallelic Variant in <i>REST</i> Is
 Associated with Non-Syndromic Autosomal Dominant Hearing Impairment in a South
 African Family. Genes (Basel). 2021 Nov 6;12(11):1765. https://doi.org/10.3390/genes12111765. 
 PMID: 34828371; PMCID: PMC8618167.
 
-10. Shey RA, Ghogomu SM, Shintouo CM, Nkemngo FN, Nebangwa DN, Esoh K, Yaah NE,
+10. Shey RA, Ghogomu SM, Shintouo CM, Nkemngo FN, Nebangwa DN, **Esoh K**, Yaah NE,
 Manka'aFri M, Nguve JE, Ngwese RA, Njume FN, Bertha FA, Ayong L, Njemini R,
 Vanhamme L, Souopgui J. Computational Design and Preliminary Serological
 Analysis of a Novel Multi-Epitope Vaccine Candidate against Onchocerciasis and
 Related Filarial Diseases. Pathogens. 2021 Jan 21;10(2):99. https://doi.org/10.3390/pathogens10020099. 
 PMID: 33494344; PMCID: PMC7912539.
 
-11. Oluwole OG, Esoh KK, Wonkam-Tingang E, Manyisa N, Noubiap JJ, Chimusa ER,
+11. Oluwole OG, **Esoh KK**, Wonkam-Tingang E, Manyisa N, Noubiap JJ, Chimusa ER,
 Wonkam A. Whole exome sequencing identifies rare coding variants in novel human-
 mouse ortholog genes in African individuals diagnosed with non-syndromic hearing
 impairment. Exp Biol Med (Maywood). 2021 Jan;246(2):197-206. https://doi.org/10.1177/1535370220960388. 
 Epub 2020 Sep 30. PMID: 32996353; PMCID: PMC7871117.
 
-12. Yalcouyé A, Traoré O, Diarra S, Schrauwen I, Esoh K, Kadlubowska MK,
+12. Yalcouyé A, Traoré O, Diarra S, Schrauwen I, **Esoh K**, Kadlubowska MK,
 Bharadwaj T, Adadey SM, Kéita M, Guinto CO, Leal SM, Landouré G, Wonkam A. A
 monoallelic variant in EYA1 is associated with Branchio-Otic syndrome in a
 Malian family. Mol Genet Genomic Med. 2022 Jul;10(7):e1995. https://doi.org/10.1002/mgg3.1995. 
@@ -128,7 +128,7 @@ PMID: 36035115; PMCID: PMC9403182.
 
 ***My contribution***
 
-<p style="background-color: rgba(210, 210, 210, 0.5); color: gray; padding: 0.75rem; text-align: center;">
+<p style="background-color: rgba(210, 210, 210, 0.5); color: gray; padding: 4rem; text-align: center;">
   I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
   which were vital for the introcution and discussions.
 </p>
