@@ -129,7 +129,7 @@ PMID: 36035115; PMCID: PMC9403182.
 ***My contribution***
 
 <p style="background-color: rgba(210, 210, 210, 0.5); color: gray; padding: 1.5rem; text-align: left; border-radius: 0.4rem;">
-  <span style="background-color: rgba(100, 180, 50, 0.8);">
+  <span style="background-color: rgba(200, 50, 50, 0.7); color: rgba(245, 245, 245, 1.0); border-radius: 0.5rem; padding: 1rem;">
     <em>My contribution</em>
   </span>
 
