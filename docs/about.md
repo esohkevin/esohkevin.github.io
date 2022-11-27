@@ -79,13 +79,14 @@ completed coursework and started a project before getting the scholarship to
 study in Kenya.
 
 The project was bioinformatics-oriented as I had become particulary interested 
-in the field. The project was titled [Reverse vaccinology for Onchocerciasis vaccine development](https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw){:target="_blank"}. I screened the entire proteome 
-of *O. volvulus* (over 12,000 proteins) for antigenic or immunogenic proteins
-with the goal of finding potential vaccine candidates. The project was continued
-by my senior who was doing his PhD in Belgium on diagnostic strategies. I workied 
-with him closely and we eventually published one of the first comprehensive
-[papers](https://www.nature.com/articles/s41598-019-40833-x){:target="_blank"} on reverse
-vaccinology based on multiple predicted epitopes from different antigenic proteins.
+in the field. The project was titled [Reverse vaccinology for Onchocerciasis vaccine development](https://drive.google.com/file/d/0B0rTlaNV5kvnTy0zY1RRY0Nld2c/view?resourcekey=0-gsC4CrSNEk4oVr96rVvvUw){:target="_blank"}. 
+I screened the entire proteome of *Onchocerca volvulus* (the parasite that causes 
+onchocerciasis or riverblindness), consisting of over 12,000 proteins for antigenic 
+or immunogenic proteins with the goal of finding potential vaccine candidates. The 
+project was continued by my senior who was doing his PhD in Belgium on diagnostic 
+strategies. I workied with him closely and we eventually published one of the first 
+comprehensive [papers](https://www.nature.com/articles/s41598-019-40833-x){:target="_blank"} 
+on reverse vaccinology based on multiple predicted epitopes from different antigenic proteins.
 
 
 ## Summary
