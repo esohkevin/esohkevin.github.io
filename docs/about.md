@@ -34,14 +34,15 @@ life easy.
 ## What I do/can do
 * * *
 ### Core areas
-I work with data in these routinely.
+I work with data in these areas routinely/regularly.
 - Genetic association studies (genome-wide and candidate gene or targeted genotyping).
 - NGS analysis (whole-genome, whole-exome) for monogenic and complex diseases.
 - Population genetics (human and *Plasmodium falciparum*, mutation age analysis).
 
 ### On needs basis
-I have worked on these extensively previously and have expertise, but currently do 
-so only on special requests. Or I have developed pipelines/workflows for colleagues. 
+I have worked with data in these areas extensively previously, but currently do 
+so only on special requests. I have developed pipelines/workflows for colleagues in most 
+of the areas. 
 - Pharmacogenomics.
 - Protein structure prediction and mutation analysis.
 - Molecular dynamic simulation.
