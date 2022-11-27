@@ -13,7 +13,7 @@ layout: pages
 	- Keep packages updated (important!).
 	- 
 
-2. [Caring for your computer and other devices]
+2. [Caring for your computer and other devices](#.)
 	- Use browser bookmarks to manage pages/articles to visit/read later.
 	- Turn off (power off) your computer/device from time to time to allow it to cool.
 	- Update core packages/software regularly (Linux - apt-get update; Windows - check for updates).
