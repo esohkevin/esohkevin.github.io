@@ -130,7 +130,7 @@ PMID: 36035115; PMCID: PMC9403182.
   <span style="background-color: rgba(110, 30, 20, 0.9); color: rgba(250, 250, 250, 1.0); border-radius: 0.5rem; padding: 0.55rem;">
     <em>My contribution</em>
   </span>
-  <br></br>
+  <br>
   I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
   which were vital for the introcution and discussions.
 </p>
