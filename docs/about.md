@@ -89,7 +89,7 @@ comprehensive [papers](https://www.nature.com/articles/s41598-019-40833-x){:targ
 on reverse vaccinology based on multiple predicted epitopes from different antigenic proteins.
 
 
-## Summary
+## Education Summary
 * * *
 - **2020 - present**: Human Genetics PhD candidate, University of Cape Town, South Africa.
 - **2017 - 2019**: MSc in Bioinformatics and Molecular Biology, JKUAT, Kenya.
