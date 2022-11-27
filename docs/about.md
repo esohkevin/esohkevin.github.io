@@ -51,7 +51,7 @@ of the areas.
 ## About me
 * * *
 
-<img src="assets/img/headshot_esoh.jpg" alt="headshot" width="30%" align="left" style="vertical-align: middle; margin: 0px 0px 0px 50px;">
+<img src="assets/img/headshot_esoh.jpg" alt="headshot" width="30%" align="left" style="vertical-align: middle; margin: 0px 50px 0px;">
 
 Kevin Esoh from Cameroon.
 
