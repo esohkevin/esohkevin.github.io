@@ -18,7 +18,7 @@ YouTube to help me. But more importantly, I learned because I had a problem to s
 my MSc project (described below). I believe ***patience***, ***persistence***, and 
 ***resilience***, in addtion to ***passion*** and ***curiosity*** are key to learning 
 Bioinformatics (as are key to learning anything). I can say I have picked up a few 
-tricks that might be useful to new learners as well as to other Bioinformaticians.
+tricks that should be useful to new learners as well as to other Bioinformaticians.
 
 **esohinformatics** is a platform to share my solutions to some of the problems 
 I have encountered doing bioinformatics or problems that colleagues have 
