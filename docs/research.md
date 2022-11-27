@@ -128,12 +128,17 @@ PMID: 36035115; PMCID: PMC9403182.
 
 ***My contribution***
 
-<div>
 <p style="background-color: rgba(210, 210, 210, 0.5); color: gray; padding: 1.5rem; text-align: left; border-radius: 0.4rem;">
-  I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
-  which were vital for the introcution and discussions.
-</p>
+<div>
+  <p>
+    <em>My contribution</em>
+  </p>
+  <p>
+    I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
+    which were vital for the introcution and discussions.
+  </p>
 </div>
+</p>
 
 20. Aboagye ET, Adadey SM, **Esoh K**, Jonas M, de Kock C, Amenga-Etego L, Awandare
 GA, Wonkam A. Age Estimate of <i>GJB2</i>-p.(Arg143Trp) Founder Variant in
