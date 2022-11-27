@@ -126,8 +126,8 @@ Manyisa N, De Kock C, Awandare GA, Mowla S, Wonkam A. Cell-based analysis of
 two African families. Front Genet. 2022 Aug 11;13:924904. [https://doi.org/10.3389/fgene.2022.924904](https://doi.org/10.3389/fgene.2022.924904). 
 PMID: 36035115; PMCID: PMC9403182.
 
-<p style="background-color: rgba(215, 215, 215, 0.5); color: gray; padding: 1.5rem 1.5rem 1.5rem; text-align: left; border-radius: 0.4rem; margin-top: 25px; margin-left: 50px; margin-right: 50px; padding-top: 1px;">
-  <span style="background-color: rgba(100, 20, 5, 0.9); color: rgba(250, 250, 250, 1.0); border-radius: 0.5rem; padding: 0.55rem; margin-bottom: 20px; margin-left: -50px;">
+<p style="background-color: rgba(215, 215, 215, 0.5); color: gray; padding: 1.5rem 1.5rem 1.5rem; text-align: left; border-radius: 0.4rem; margin-top: 25px; margin-left: 50px; margin-right: 50px; padding-top: 1px; padding-bottom: 1px;">
+  <span style="background-color: rgba(100, 20, 5, 0.9); color: rgba(250, 250, 250, 1.0); border-radius: 0.5rem; padding: 0.55rem; margin-bottom: 20px; margin-left: -40px;">
     <em>My contribution</em>
   </span>
   <br>
