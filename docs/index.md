@@ -21,23 +21,11 @@ image: assets/img/esohinformatics-logo.svg
 ![](uploads/dna_greyscale.png)
 
 
-<style>
-
-info-btn {
-  background-color: rgba(100, 0, 0, 0.4); 
-  padding: 0.75rem; 
-  border-radius: 0.4rem; 
-  text-align: center;
-}
-
-</style>
-
-
 <p>
-  <span class="info-btn" align="left">
+  <span style="background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center;" align="left">
     Register here
   </span>
-  <span class="info-btn" align="right">
+  <span style="background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center;" align="right">
     Register here
   </span>
 </p>
