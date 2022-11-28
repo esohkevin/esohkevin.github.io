@@ -23,10 +23,10 @@ image: assets/img/esohinformatics-logo.svg
 
 <p>
   <span style="color: rgba(250, 250, 250, 1.0) ;background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-right: 50%; " align="left">
-    Register here
+    < Previous
   </span>
   <span style="color: rgba(250, 250, 250, 1.0); background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-left: 5%; " align="right">
-    Register here
+    Next >
   </span>
 </p>
 
