@@ -20,6 +20,30 @@ image: assets/img/esohinformatics-logo.svg
 
 ![](uploads/dna_greyscale.png)
 
+
+<style>
+
+info-btn {
+  background-color: rgba(100, 0, 0, 0.4); 
+  padding: 0.75rem; 
+  border-radius: 0.4rem; 
+  text-align: center;
+}
+
+</style>
+
+
+<p>
+  <span class="info-btn" align="left">
+    Register here
+  </span>
+  <span class="info-btn" align="right">
+    Register here
+  </span>
+</p>
+
+
+
 ```r
 # demo R code
 require(gtools)
