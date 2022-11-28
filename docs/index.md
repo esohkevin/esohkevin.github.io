@@ -25,7 +25,7 @@ image: assets/img/esohinformatics-logo.svg
   <span style="color: rgba(250, 250, 250, 1.0) ;background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-right: 100%;" align="left">
     Register here
   </span>
-  <span style="color: rgba(250, 250, 250, 1.0); background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-left: 10%;" align="right">
+  <span style="color: rgba(250, 250, 250, 1.0); background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-left: 1%;" align="right">
     Register here
   </span>
 </p>
