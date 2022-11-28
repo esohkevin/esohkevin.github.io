@@ -25,7 +25,7 @@ image: assets/img/esohinformatics-logo.svg
   <span style="color: rgba(250, 250, 250, 1.0) ;background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-right: 50%; " align="left">
     < Previous
   </span>
-  <span style="color: rgba(250, 250, 250, 1.0); background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-left: 30%; margin-right: 0%;" align="right">
+  <span style="color: rgba(250, 250, 250, 1.0); background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-left: 27%; margin-right: 0%;" align="right">
     Next >
   </span>
 </p>
