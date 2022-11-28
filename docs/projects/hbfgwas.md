@@ -79,7 +79,9 @@ variables <- c(
   "MCV.fl.",               # Mean cell volume
   "Lymp"                   # Lymphocyte count (x10^9/l)
 )
-cm %>% select(variables) %>% summary()
+cm %>% 
+  select(variables) %>% 
+  summary()
 
 ##       AGE             HbS             HbF         HbA2_percentage 
 ##  Min.   : 5.00   Min.   :19.60   Min.   : 0.700   Min.   : 0.000  
@@ -130,23 +132,34 @@ sex
 ## 1 F  657 52.56
 ## 2 M  593 47.44
 
-colnames(sex) <- c("cat", "freq", "prop")
-par(mar=c(4,4,3,4))
+colnames(sex) <- c(
+  "cat", 
+  "freq", 
+  "prop"
+)
+
+par(
+  mar = c(4,4,3,4)
+)
+
 barplot(
   sex$prop, 
-  ylim=c(0, 60), 
-  col=c(2,4)
+  ylim = c(0, 60), 
+  col = c(2,4)
 )
+
 text(
-  x=c(0.7,1.9), 
-  y=30, 
-  labels=c("Female", "Male")
+  x = c(0.7,1.9), 
+  y = 30, 
+  labels = c("Female", "Male")
 )
+
 mtext(
   text = "Proportion (%)",
   side = 2,
   line = 3
 )
+
 mtext(
   text = "Sex",
   side = 1,
@@ -164,21 +177,27 @@ Cameroonian inidividuals
 
 ```r
 # Number of patients with at least one overt stroke
-cm %>% select(Stroke) %>% table()
+cm %>% 
+  select(Stroke) %>% 
+  table()
 
 ## .
 ##   No  Yes 
 ## 1195   46
 
 # 3.7 kb HbA1/HbA2 alpha thalassaemia deletion
-cm %>% select(athal) %>% table()
+cm %>% 
+  select(athal) %>% 
+  table()
 
 ## .
 ## α3.7/α3.7   αα/α3.7     αα/αα 
 ##        18       101       286
 
 # HBB gene cluster haplotypes
-cm %>% select(Haplotypes) %>% table()
+cm %>% 
+  select(Haplotypes) %>% 
+  table()
 
 ## .
 ##     Atypical          BEN       BEN/AI BEN/Atypical      BEN/CAM      BEN/CAR 
@@ -211,7 +230,10 @@ variables <- c(
   "AGE",
   "HbF"
 )
-tz %>% select(variables) %>% summary()
+
+tz %>% 
+  select(variables) %>% 
+  summary()
 
 ##       AGE              HbF        
 ##  Min.   : 5.021   Min.   : 0.200  
@@ -245,24 +267,27 @@ colnames(sex) <- c(
 )
 
 par(
-  mar=c(4,4,3,4)
+  mar = c(4,4,3,4)
 )
 
 barplot(
   sex$prop,
-  ylim=c(0, 60),
-  col=c(2,4)
+  ylim = c(0, 60),
+  col = c(2,4)
 )
+
 text(
-  x=c(0.7,1.9),
-  y=30,
-  labels=c("Female", "Male")
+  x = c(0.7,1.9),
+  y = 30,
+  labels = c("Female", "Male")
 )
+
 mtext(
   text = "Proportion (%)",
   side = 2,
   line = 3
 )
+
 mtext(
   text = "Sex",
   side = 1,
@@ -362,23 +387,25 @@ tz.nhbf.den <- density(
 )
 
 par( 
-  mar=c(4,4,3,4) 
+  mar = c(4,4,3,4) 
 )
 
 plot( 
   cm.hbf.den, 
-  main="Cameroon HbF" 
+  main = "Cameroon HbF" 
 )
+
 polygon(
   cm.hbf.den, 
-  col=2
+  col = 2
 )
 
 plot(
   cm.nhbf.den, 
-  ylab="", 
-  main="Cameroon normalized HbF"
+  ylab = "", 
+  main = "Cameroon normalized HbF"
 )
+
 polygon(
   cm.nhbf.den, 
   col=5
@@ -386,21 +413,23 @@ polygon(
 
 plot(
   tz.hbf.den, 
-  main="Tanzania HbF"
+  main = "Tanzania HbF"
 )
+
 polygon(
   tz.hbf.den, 
-  col=2
+  col = 2
 )
 
 plot(
   tz.nhbf.den, 
-  ylab="", 
-  main="Tanzania normalized HbF"
+  ylab = "", 
+  main = "Tanzania normalized HbF"
 )
+
 polygon(
   tz.nhbf.den, 
-  col=5
+  col = 5
 )
 ```
 
