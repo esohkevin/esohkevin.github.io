@@ -36,7 +36,7 @@ keywords: illumna idat, vcf, genotype calling, genome-wide association study, gt
 
   **Note** You need to create an account, and then you can download it freely.
 
-- Alternatively, you can run the code below (linux). This was adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf){:target="_blank"}
+- Alternatively, you can run the code below. This was adapted from the [gtc2vcf github page](https://github.com/freeseek/gtc2vcf){:target="_blank"}
 
 
 *Linux users*
@@ -51,7 +51,7 @@ curl ftp://webdata2:webdata2@ussd-ftp.illumina.com/downloads/software/iaap/iaap-
 
 ### Install iaap-cli
 * * *
-The following instructions have been adapted from [the gtc2vcf github page](https://github.com/freeseek/gtc2vcf){:target="_blank"}. 
+The following instructions have been adapted from the [gtc2vcf github page](https://github.com/freeseek/gtc2vcf){:target="_blank"}. 
 You may visit the github page for further useful information
 
 ***First***, setup some relevant paths
@@ -120,11 +120,8 @@ mkdir -p idat2vcf
 cd idat2vcf
 ```
 
-<p style="background-color: rgba(255, 255, 140, 0.7);">
-   <br>
+<p style="background-color: rgba(255, 255, 140, 0.5); margin: 25px 50px 25px; text-align: center; padding: 0.75rem; border-radius: 0.5rem;">
    <strong><i>Note</i></strong>: I always use -p to avoid overwriting a directory if it already exists
-   <br>
-   <br>
 </p>
 
 ***Next***, check your version of bcftools by typing bcftools
