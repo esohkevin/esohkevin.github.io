@@ -3,21 +3,6 @@ layout: default
 image: assets/img/esohinformatics-logo.svg
 ---
 
-<div class="actions ghbtn-container" align="center">
- <div class="ghbtn-group">
-  <a href="/about.html" class="mybtn">About</a>
-  <a href="/project.html" class="mybtn">Projects</a>
-  <a href="/workflow.html" class="mybtn">Workflows</a>
-  <a href="/tutorial.html" class="mybtn">Tutorials</a>
-  <a href="/post.html" class="mybtn">Posts</a>
-  <a href="/research.html" class="mybtn">Research</a>
-  <a href="/contact.html" class="mybtn">Contact</a>
- </div>
-</div>
-
-* * *
-
-
 ![](uploads/dna_greyscale.png)
 
 
