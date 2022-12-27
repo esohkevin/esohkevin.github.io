@@ -27,6 +27,14 @@ PMID: 33441574; PMCID: PMC7807043.
 
 #### Co-authored publications
 
+<span style="background-color: rgba(215, 215, 215, 0.5); color: gray; padding: 1.5rem; text-align: center; border-radius: 0.4rem; margin: 25px 50px 25px; float: right; font-size: 14px;">
+  I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
+  which were vital for the introcution and discussions.
+</span>
+<span style="background-color: rgba(100, 20, 5, 0.9); color: rgba(250, 250, 250, 1.0); border-radius: 0.5rem; padding: 0.55rem; margin-top: -65px; margin-bottom: 0px; margin-left: 35px; float: left; position: relative;">
+  <em>My contribution</em>
+</span>
+
 1. Wonkam A, Munung NS, Dandara C, **Esoh KK**, Hanchard NA, Landoure G. Five
 Priorities of African Genomics Research: The Next Frontier. *Annu Rev Genomics
 Hum Genet*. 2022 Aug 31;23:499-521. [https://doi.org/10.1146/annurev-genom-111521-102452](https://doi.org/10.1146/annurev-genom-111521-102452).
@@ -81,38 +89,30 @@ PMID: 35440622; PMCID: PMC9019055.
 9. Adadey SM, Wonkam-Tingang E, Alves de Souza Rios L, Aboagye ET, **Esoh K**,
 Manyisa N, De Kock C, Awandare GA, Mowla S, Wonkam A. Cell-based analysis of
 <i>CLIC5A</i> and <i>SLC12A2</i> variants associated with hearing impairment in
-two African families. *Front Genet*. 2022 Aug 11;13:924904. [https://doi.org/10.3389/fgene.2022.924904](https://doi.org/10.3389/fgene.2022.924904). 
+two African families. *Front Genet*. 2022 Aug 11;13:924904. [https://doi.org/10.3389/fgene.2022.924904](https://doi.org/10.3389/fgene.2022.924904){:target="_blank"}. 
 PMID: 36035115; PMCID: PMC9403182.
-
-<span style="background-color: rgba(215, 215, 215, 0.5); color: gray; padding: 1.5rem; text-align: center; border-radius: 0.4rem; margin: 25px 50px 25px; float: right; font-size: 14px;">
-  I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
-  which were vital for the introcution and discussions.
-</span>
-<span style="background-color: rgba(100, 20, 5, 0.9); color: rgba(250, 250, 250, 1.0); border-radius: 0.5rem; padding: 0.55rem; margin-top: -65px; margin-bottom: 0px; margin-left: 35px; float: left; position: relative;">
-  <em>My contribution</em>
-</span>
 
 10. Aboagye ET, Adadey SM, **Esoh K**, Jonas M, de Kock C, Amenga-Etego L, Awandare
 GA, Wonkam A. Age Estimate of <i>GJB2</i>-p.(Arg143Trp) Founder Variant in
 Hearing Impairment in Ghana, Suggests Multiple Independent Origins across
-Populations. *Biology (Basel)*. 2022 Mar 21;11(3):476. [https://doi.org/10.3390/biology11030476](https://doi.org/10.3390/biology11030476). 
+Populations. *Biology (Basel)*. 2022 Mar 21;11(3):476. [https://doi.org/10.3390/biology11030476](https://doi.org/10.3390/biology11030476){:target="_blank"}. 
 PMID: 35336849; PMCID: PMC8945073.
 
 11. Oluwole OG, **Esoh KK**, Wonkam-Tingang E, Manyisa N, Noubiap JJ, Chimusa ER,
 Wonkam A. Whole exome sequencing identifies rare coding variants in novel human-
 mouse ortholog genes in African individuals diagnosed with non-syndromic hearing
-impairment. *Exp Biol Med (Maywood)*. 2021 Jan;246(2):197-206. [https://doi.org/10.1177/1535370220960388](https://doi.org/10.1177/1535370220960388). 
+impairment. *Exp Biol Med (Maywood)*. 2021 Jan;246(2):197-206. [https://doi.org/10.1177/1535370220960388](https://doi.org/10.1177/1535370220960388){:target="_blank"}. 
 Epub 2020 Sep 30. PMID: 32996353; PMCID: PMC7871117.
 
 12. Yalcouyé A, **Esoh K**, Guida L, Wonkam A. Current profile of Charcot-Marie-Tooth
 disease in Africa: A systematic review. *J Peripher Nerv Syst*. 2022
-Jun;27(2):100-112. [https://doi.org/10.1111/jns.12489](https://doi.org/10.1111/jns.12489). Epub 2022 Apr 5. PMID: 35383421;
+Jun;27(2):100-112. [https://doi.org/10.1111/jns.12489](https://doi.org/10.1111/jns.12489){:target="_blank"}. Epub 2022 Apr 5. PMID: 35383421;
 PMCID: PMC9322329.
 
 13. Yalcouyé A, Traoré O, Diarra S, Schrauwen I, **Esoh K**, Kadlubowska MK,
 Bharadwaj T, Adadey SM, Kéita M, Guinto CO, Leal SM, Landouré G, Wonkam A. A
 monoallelic variant in EYA1 is associated with Branchio-Otic syndrome in a
-Malian family. *Mol Genet Genomic Med*. 2022 Jul;10(7):e1995. [https://doi.org/10.1002/mgg3.1995](https://doi.org/10.1002/mgg3.1995). 
+Malian family. *Mol Genet Genomic Med*. 2022 Jul;10(7):e1995. [https://doi.org/10.1002/mgg3.1995](https://doi.org/10.1002/mgg3.1995){:target="_blank"}. 
 Epub 2022 Jun 14. PMID: 35698919; PMCID: PMC9266589.
 
 14. Nembaware V, Mazandu GK, Hotchkiss J, Safari Serufuri JM, Kent J, Kengne AP,
@@ -122,49 +122,55 @@ Morrice J, Uwineza A, Nguweneza A, Banda K, Nyanor I, Adjei DN, Siebu NE,
 Nkanyemka M, Kuona P, Tayo BO, Campbell A, Oron AP, Nnodu OE, Painstil V, Makani
 J, Mulder N, Wonkam A. The Sickle Cell Disease Ontology: Enabling Collaborative
 Research and Co-Designing of New Planetary Health Applications. *OMICS*. 2020
-Oct;24(10):559-567. [https://doi.org/10.1089/omi.2020.0153](https://doi.org/10.1089/omi.2020.0153). PMID: 33021900; PMCID:
+Oct;24(10):559-567. [https://doi.org/10.1089/omi.2020.0153](https://doi.org/10.1089/omi.2020.0153){:target="_blank"}. PMID: 33021900; PMCID:
 PMC7549008.
 
 15. Shey RA, Ghogomu SM, Shintouo CM, Nkemngo FN, Nebangwa DN, **Esoh K**, Yaah NE,
 Manka'aFri M, Nguve JE, Ngwese RA, Njume FN, Bertha FA, Ayong L, Njemini R,
 Vanhamme L, Souopgui J. Computational Design and Preliminary Serological
 Analysis of a Novel Multi-Epitope Vaccine Candidate against Onchocerciasis and
-Related Filarial Diseases. *Pathogens*. 2021 Jan 21;10(2):99. [https://doi.org/10.3390/pathogens10020099](https://doi.org/10.3390/pathogens10020099). 
+Related Filarial Diseases. *Pathogens*. 2021 Jan 21;10(2):99. [https://doi.org/10.3390/pathogens10020099](https://doi.org/10.3390/pathogens10020099){:target="_blank"}. 
 PMID: 33494344; PMCID: PMC7912539.
 
 16. Shey RA, Ghogomu SM, **Esoh KK**, Nebangwa ND, Shintouo CM, Nongley NF, Asa BF,
 Ngale FN, Vanhamme L, Souopgui J. In-silico design of a multi-epitope vaccine
 candidate against onchocerciasis and related filarial diseases. *Sci Rep*. 2019
-Mar 13;9(1):4409. [https://doi.org/10.1038/s41598-019-40833-x](https://doi.org/10.1038/s41598-019-40833-x). 
+Mar 13;9(1):4409. [https://doi.org/10.1038/s41598-019-40833-x](https://doi.org/10.1038/s41598-019-40833-x){:target="_blank"}. 
 PMID: 30867498; PMCID: PMC6416346.
 
 17. Shey RA, Ghogomu S, Nebangwa DN, Shintouo CM, Yaah NE, Yengo BN, Francis 
 Nongley N, **Esoh KK**, Tchatchoua NM, Mbachick TT, Dede A. Rational Design of a Novel 
 Multi-Epitope Peptide-Based Vaccine against Onchocerca volvulus Using Transmembrane 
-Proteins. *Frontiers in Tropical Diseases*. [https://doi.org/10.3389/fitd.2022.1046522](https://doi.org/10.3389/fitd.2022.1046522)
+Proteins. *Frontiers in Tropical Diseases*. [https://doi.org/10.3389/fitd.2022.1046522](https://doi.org/10.3389/fitd.2022.1046522){:target="_blank"}
 
 18. Asante-Poku A, Morgan P, Osei-Wusu S, Aboagye SY, Asare P, Otchere ID,
 Adadey SM, Mnika K, **Esoh K**, Mawuta KH, Arthur N, Forson A, Mazandu GK, Wonkam A,
 Yeboah-Manu D. Genetic Analysis of TB Susceptibility Variants in Ghana Reveals
 Candidate Protective Loci in <i>SORBS2</i> and <i>SCL11A1</i> Genes. *Front
-Genet*. 2022 Feb 15;12:729737. [https://doi.org/10.3389/fgene.2021.729737](https://doi.org/10.3389/fgene.2021.729737). 
+Genet*. 2022 Feb 15;12:729737. [https://doi.org/10.3389/fgene.2021.729737](https://doi.org/10.3389/fgene.2021.729737){:target="_blank"}. 
 PMID: 35242163; PMCID: PMC8886735.
 
 19. Mwangi KW, Mainye N, Ouso DO, **Esoh K**, Muraya AW, Mwangi CK, Naitore C, Karega
 P, Kibet-Rono G, Musundi S, Mutisya J, Mwangi E, Mgawe C, Miruka S, Kibet CK;
 OpenScienceKE Collaborators. Open Science in Kenya: Where Are We? *Front Res Metr
-Anal*. 2021 May 13;6:669675. [https://doi.org/10.3389/frma.2021.669675](https://doi.org/10.3389/frma.2021.669675). PMID: 34056516;
+Anal*. 2021 May 13;6:669675. [https://doi.org/10.3389/frma.2021.669675](https://doi.org/10.3389/frma.2021.669675){:target="_blank"}. PMID: 34056516;
 PMCID: PMC8155710.
 
 ### News
 
 * Our [Evolutionary history of sickle cell mutation](https://academic.oup.com/hmg/article/30/R1/R119/6103809?searchresult=1){:target="_blank"} 
   paper has made it to the *Human Molecular Genetics* collection of [High-impact Research](https://academic.oup.com/hmg/pages/highly_cited){:target="_blank"} 
-  for being one of   the most read articles published between 2020 and 2021.
+  for being one of the most read articles published between 2020 and 2021.
 
+* Our [Vaccine design paper](https://doi.org/10.1038/s41598-019-40833-x){:target="_blank"} 
+  in *Scientific Reports* made the Editor's choice for vector-borne diseases.
 
 ### Features
 
-* Kenya Education Network: Using Big-Data for Malaria Elimination in Africa
+* African Academy of Sciences spotlight: 
+  [Genetic diversity in Cameroon: an invisible obstacle in human genetic studies of malaria](https://www.aasciences.africa/news/genetic-diversity-cameroon-invisible-obstacle-human-genetic-studies-malaria){:target="_blank"}
+
+* Kenya Education Network: [Using Big-Data for Malaria Elimination in Africa](https://www.kenet.or.ke/blog/admin/qa-using-big-data-malaria-elimination-africa){:target="_blank"}
+
 
 ***Under development***
