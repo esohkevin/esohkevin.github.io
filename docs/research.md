@@ -10,6 +10,8 @@ layout: pages
 
 #### First-authored publications
 
+* * *
+
 1. **Esoh K**, Wonkam A. Evolutionary history of sickle-cell mutation: implications
 for global genetic medicine. *Hum Mol Genet*. 2021 Apr 26;30(R1):R119-R128. 
 [https://doi.org/10.1093/hmg/ddab004](https://doi.org/10.1093/hmg/ddab004){:target="_blank"}. PMID: 33461216; PMCID: PMC8117455.
@@ -26,6 +28,8 @@ of Cameroon reveals episodic diversifying selection. *Sci Rep*. 2021 Jan
 PMID: 33441574; PMCID: PMC7807043.
 
 #### Co-authored publications
+
+* * *
 
 <span style="background-color: rgba(215, 215, 215, 0.5); color: gray; padding: 1.5rem; text-align: center; border-radius: 0.4rem; margin: 25px 50px 25px; float: right; font-size: 14px;">
   I researched and provided the background information on <i>CLIC5</i> and <i>SLC12A2</i>
@@ -158,6 +162,8 @@ PMCID: PMC8155710.
 
 ### News
 
+* * *
+
 * Our [Evolutionary history of sickle cell mutation](https://academic.oup.com/hmg/article/30/R1/R119/6103809?searchresult=1){:target="_blank"} 
   paper has made it to the *Human Molecular Genetics* collection of [High-impact Research](https://academic.oup.com/hmg/pages/highly_cited){:target="_blank"} 
   for being one of the most read articles published between 2020 and 2021.
@@ -166,6 +172,8 @@ PMCID: PMC8155710.
   in *Scientific Reports* made the Editor's choice for vector-borne diseases.
 
 ### Features
+
+* * *
 
 * African Academy of Sciences spotlight: 
   [Genetic diversity in Cameroon: an invisible obstacle in human genetic studies of malaria](https://www.aasciences.africa/news/genetic-diversity-cameroon-invisible-obstacle-human-genetic-studies-malaria){:target="_blank"}
