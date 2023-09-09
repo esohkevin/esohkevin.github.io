@@ -6,7 +6,7 @@ image: assets/img/esohinformatics-logo.svg
 ![](uploads/dna_greyscale.png)
 
 
-[SIAIS](https://esohkevin.github.io/siaImputationService/)
+[SIAIS](https://esohkevin.github.io/siaImputationService/){:target="_blank"}
 
 
 ```r
