@@ -31,3 +31,5 @@ google_analytics: true
 
 domain: www.esohinformatics.com
 url: https://esohinformatics.com # the base hostname & protocol for your site, e.g. http://example.com
+
+remote_theme: just-the-docs/just-the-docs
