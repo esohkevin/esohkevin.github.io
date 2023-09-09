@@ -31,7 +31,7 @@ google_analytics: true
 
 #baseurl: ""
 #domain: esohinformatics
-url: "https://esohinformatics.com" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://esohinformatics.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
   owner_url: https://github.com/esohkevin
