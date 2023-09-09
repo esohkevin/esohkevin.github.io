@@ -6,16 +6,6 @@ image: assets/img/esohinformatics-logo.svg
 ![](uploads/dna_greyscale.png)
 
 
-<p>
-  <span style="color: rgba(250, 250, 250, 1.0) ;background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-right: 50%; " align="left">
-    < Previous
-  </span>
-  <span style="color: rgba(250, 250, 250, 1.0); background-color: rgba(100, 0, 0, 0.4); padding: 0.75rem; border-radius: 0.4rem; text-align: center; margin-left: 27%; margin-right: 0%;" align="right">
-    Next >
-  </span>
-</p>
-
-
 
 ```r
 # demo R code
@@ -28,21 +18,5 @@ for( num in nums ) {
     message( "Even number: ", num )
   }
 }
-```
-
-
-```html
-# demo html code
-# github buttons
-<div class="actions ghbtn-container" align="center">
-    <div class="ghbtn-group">
-        <a href="/about.html" class="ghbtn">About</a>
-        <a href="/project.html" class="ghbtn">Projects</a>
-        <a href="/post.html" class="ghbtn">Posts</a>
-        <a href="/workflow.html" class="ghbtn">Workflows</a>
-        <a href="/video.html" class="ghbtn">Videos</a>
-        <a href="/contact.html" class="ghbtn">Contact</a>
-    </div>
-</div>
 ```
 

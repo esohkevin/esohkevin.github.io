@@ -13,13 +13,16 @@ layout: pages
 	- Keep packages updated (important!).
 	- 
 
+
 2. [Caring for your computer and other devices](#.)
 	- Use browser bookmarks to manage pages/articles to visit/read later.
 	- Turn off (power off) your computer/device from time to time to allow it to cool.
 	- Update core packages/software regularly (Linux - apt-get update; Windows - check for updates).
 	- Remove bloatware (packages/software that are of no use to you and are not necessary for your computer to function properly).
 	- Turn off packages/software/bloatware that cannot be removed from starting on Start up (when you turn your computer on) or from running at all.
-	- 
+	- Avoid food crumps on the keyboard
+	- Clean your computer regularly; monitor and keyboard
+	- Before moving liquids around your computer, ask yourself the worse that can happen... you could spill on your keyboard and destroy your computer
 
 
 ***Under development***
