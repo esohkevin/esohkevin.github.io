@@ -1,7 +1,6 @@
 ---
 title: Contact me
-#layout: pages
-remote_theme: just-the-docs/just-the-docs
+layout: pages
 ---
 
 email: esohkev@gmail.com
