@@ -27,7 +27,7 @@ tagline: ei
 email: esohkev
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/esohinformatics"
+#baseurl: "/esohinformatics"
 # url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
