@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 'esohinformatics: smart bioinformatics'
+title: esohinformatics
 author: 
   name: Kevin Esoh
   email: esohkev@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   smart bioinformatics 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 show_drafts: true
 show_downloads: false
 google_analytics: true
