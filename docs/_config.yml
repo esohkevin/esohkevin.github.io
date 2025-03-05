@@ -9,8 +9,8 @@ show_drafts: true
 show_downloads: false
 google_analytics: true
 
-domain: esohinformatics
-url: "https://esohinformatics.com" # the base hostname & protocol for your site, e.g. http://example.com
+#domain: esohinformatics
+#url: "https://esohinformatics.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
   owner_url: https://github.com/esohkevin
@@ -32,34 +32,12 @@ pages:
 
 
 # point to my logo
-logourl: /assets/img/esoh.png
+logourl: /assets/img/esohinfo2.png
 logoalt: esohlogo
 
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: Introduction
-  internal: true
-  url: ./
-- text: Add a new page
-  internal: true
-  url: add-a-new-page
-- text: Configure the Guide
-  internal: true
-  url: configure-the-guide
-- text: GitHub Setup
-  internal: true
-  url: github
-- text: Create a Glossary
-  glossary: true
-- text: Edit this Repo
-  internal: false
-  url: https://esohinformatics.github.io
-
-
-    # title: Cayman theme
-    # description: Cayman is a clean, responsive theme for GitHub Pages.
-    # show_downloads: true
-    # google_analytics:
-    # theme: jekyll-theme-cayman
+# title: Cayman theme
+# description: Cayman is a clean, responsive theme for GitHub Pages.
+# show_downloads: true
+# google_analytics:
+# theme: jekyll-theme-cayman
 
