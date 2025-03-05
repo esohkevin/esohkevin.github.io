@@ -82,12 +82,10 @@ navigation:
 # - about.md
 
 # Build settings
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 #minima
 #  - jekyll-theme-hacker
 #  - minimal-mistakes-jekyll
-
-remote_theme: pages-themes/hacker@v0.2.0
 
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
