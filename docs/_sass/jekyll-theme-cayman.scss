@@ -120,8 +120,11 @@ a {
   &:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+/*    
     background-color: rgba(57, 78, 76, 0.2);
-    border-color: rgba(57, 78, 76, 0.3);
+    border-color: rgba(57, 78, 76, 0.3); */
   }
 
   + .mybtn {
