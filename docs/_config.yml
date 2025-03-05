@@ -78,8 +78,8 @@ navigation:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: jekyll-theme-cayman
@@ -94,12 +94,12 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+#minima:
+#  date_format: "%b %-d, %Y"
 
 # generate social links in footer
 social_links:
